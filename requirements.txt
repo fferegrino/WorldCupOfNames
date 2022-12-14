@@ -1,0 +1,8 @@
+requests
+cairosvg
+beautifulsoup4
+matplotlib
+pandas
+jupyter
+jupyterlab
+Pillow

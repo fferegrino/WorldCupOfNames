@@ -1,0 +1,831 @@
+Country,Shirt Number,Player,Position,Club,Birth Place,Birth Date
+Argentina,8,Marcos Acuña,DF,1.es Sevilla,"Zapala, Argentina",1991-10-28
+Argentina,16,Thiago Almada,MF,1.us Atlanta Utd,"Argentina, Argentina",2001-04-26
+Argentina,9,Julián Álvarez,"FW,MF",1.eng Manchester City,"Argentina, Argentina",2000-01-31
+Argentina,1,Franco Armani,GK,1.ar River Plate,"Casilda, Argentina",1986-10-16
+Argentina,15,Ángel Correa,MF,1.es Atlético Madrid,"Rosario, Argentina",1995-03-09
+Argentina,7,Rodrigo De Paul,MF,1.es Atlético Madrid,"Sarandí, Argentina",1994-05-24
+Argentina,11,Ángel Di María,"MF,FW",1.it Juventus,"Rosario, Argentina",1988-02-14
+Argentina,21,Paulo Dybala,FW,1.it Roma,"Laguna Larga, Argentina",1993-11-15
+Argentina,24,Enzo Fernández,MF,1.pt Benfica,"Argentina, Argentina",2001-01-17
+Argentina,2,Juan Foyth,DF,1.es Villarreal,"La Plata, Argentina",1998-01-12
+Argentina,17,Papu Gómez,"MF,FW",1.es Sevilla,"Buenos Aires, Argentina",1988-02-15
+Argentina,20,Alexis Mac Allister,MF,1.eng Brighton,"Santa Rosa, Argentina",1998-12-24
+Argentina,23,Emiliano Martínez,GK,1.eng Aston Villa,"Mar del Plata, Argentina",1992-09-02
+Argentina,22,Lautaro Martínez,FW,1.it Inter,"Bahía Blanca, Argentina",1997-08-22
+Argentina,25,Lisandro Martínez,DF,1.eng Manchester Utd,"Gualeguay, Argentina",1998-01-18
+Argentina,10,Lionel Messi,FW,1.fr Paris S-G,"Rosario, Argentina",1987-06-24
+Argentina,26,Nahuel Molina,DF,1.es Atlético Madrid,"Embalse, Argentina",1998-04-06
+Argentina,4,Gonzalo Montiel,"DF,MF",1.es Sevilla,"González Catán, Argentina",1997-01-01
+Argentina,19,Nicolás Otamendi,DF,1.pt Benfica,"Buenos Aires, Argentina",1988-02-12
+Argentina,14,Exequiel Palacios,"MF,DF",1.de Leverkusen,"Famaillá, Argentina",1998-10-05
+Argentina,5,Leandro Paredes,MF,1.it Juventus,"San Justo, Argentina",1994-06-29
+Argentina,6,Germán Pezzella,DF,1.es Betis,"Bahía Blanca, Argentina",1991-06-27
+Argentina,18,Guido Rodríguez,MF,1.es Betis,"Sáenz Peña, Argentina",1994-04-12
+Argentina,13,Cristian Romero,DF,1.eng Tottenham,"Córdoba, Argentina",1998-04-27
+Argentina,12,Gerónimo Rulli,GK,1.es Villarreal,"La Plata, Argentina",1992-05-20
+Argentina,3,Nicolás Tagliafico,DF,1.fr Lyon,"Buenos Aires, Argentina",1992-08-31
+Australia,3,Nathaniel Atkinson,DF,1.sct Hearts,"Launceston, Australia",1999-06-13
+Australia,26,Keanu Baccus,MF,1.sct St Mirren,"Durban, South Africa",1998-06-07
+Australia,16,Aziz Behich,DF,1.sct Dundee United,"Moonee Ponds, Australia",1990-12-16
+Australia,25,Jason Cummings,FW,1.au Central Coast,"Edinburgh, Scotland, United Kingdom",1995-08-01
+Australia,2,Miloš Degenek,DF,1.us Columbus Crew,"Knin, Croatia",1994-04-28
+Australia,20,Thomas Deng,DF,2.jp Albirex Niigata,"Nairobi, Kenya",1997-03-20
+Australia,17,Cameron Devlin,MF,1.sct Hearts,"Sydney, Australia",1998-06-07
+Australia,15,Mitchell Duke,FW,2.jp Fagi Okayama,"Liverpool, Australia",1991-01-18
+Australia,23,Craig Goodwin,MF,1.au Adelaide,"Adelaide, Australia",1991-12-16
+Australia,10,Ajdin Hrustic,"MF,FW",1.it Hellas Verona,"Melbourne, Australia",1996-07-05
+Australia,22,Jackson Irvine,"MF,FW",2.de St. Pauli,"Melbourne, Australia",1993-03-07
+Australia,5,Fran Karačić,DF,2.it Brescia,"Zagreb, Croatia",1996-05-12
+Australia,24,Joel King,DF,1.dk Odense,"Figtree, Australia",2000-10-30
+Australia,21,Garang Kuol,"FW,MF",1.au Central Coast,"Khartoum, Sudan",2004-09-15
+Australia,7,Mathew Leckie,"MF,FW",1.au Melb City,"Melbourne, Australia",1991-02-04
+Australia,11,Awer Mabil,MF,1.es Cádiz,"Kakuma, Kenya",1995-09-15
+Australia,9,Jamie Maclaren,FW,1.au Melb City,"Melbourne, Australia",1993-07-29
+Australia,14,Riley McGree,"FW,MF",2.eng Middlesbrough,"Adelaide, Australia",1998-11-02
+Australia,13,Aaron Mooy,MF,1.sct Celtic,"Sydney, Australia",1990-09-15
+Australia,12,Andrew Redmayne,GK,1.au Sydney FC,"Gosford, Australia",1989-01-13
+Australia,4,Kye Rowles,DF,1.sct Hearts,"Kiama, Australia",1998-06-24
+Australia,1,Mathew Ryan,GK,1.dk FC Copenhagen,"Plumpton, Australia",1992-04-08
+Australia,19,Harry Souttar,DF,2.eng Stoke City,"Aberdeen, Scotland, United Kingdom",1998-10-22
+Australia,6,Marco Tilio,FW,1.au Melb City,"Hurstville, Australia",2001-08-23
+Australia,18,Danny Vukovic,GK,1.au Central Coast,"Sydney, Australia",1985-03-27
+Australia,8,Bailey Wright,DF,2.eng Sunderland,"Melbourne, Australia",1992-07-28
+Belgium,2,Toby Alderweireld,DF,1.be Antwerp,"Wilrijk, Belgium",1989-03-02
+Belgium,23,Michy Batshuayi,FW,1.tr Fenerbahçe,"Brussels, Belgium",1993-10-02
+Belgium,11,Yannick Carrasco,"FW,DF",1.es Atlético Madrid,"Ixelles, Belgium",1993-09-04
+Belgium,21,Timothy Castagne,DF,1.eng Leicester City,"Arlon, Belgium",1995-12-05
+Belgium,13,Koen Casteels,GK,1.de Wolfsburg,"Bonheiden, Belgium",1992-06-25
+Belgium,1,Thibaut Courtois,GK,1.es Real Madrid,"Bree, Belgium",1992-05-11
+Belgium,7,Kevin De Bruyne,"FW,MF",1.eng Manchester City,"Gent, Belgium",1991-06-28
+Belgium,22,Charles De Ketelaere,FW,1.it Milan,"Brugge, Belgium",2001-03-10
+Belgium,26,Zeno Debast,DF,1.be Anderlecht,"Halle, Belgium",2003-10-24
+Belgium,19,Leander Dendoncker,"DF,MF",1.eng Aston Villa,"Passendale, Belgium",1995-04-15
+Belgium,25,Jeremy Doku,"MF,FW",1.fr Rennes,"Antwerpen, Belgium",2002-05-27
+Belgium,4,Wout Faes,DF,1.eng Leicester City,"Mol, Belgium",1998-04-03
+Belgium,10,Eden Hazard,MF,1.es Real Madrid,"La Louvière, Belgium",1991-01-07
+Belgium,16,Thorgan Hazard,FW,1.de Dortmund,"La Louvière, Belgium",1993-03-29
+Belgium,,Romelu Lukaku,FW,1.it Inter,"Antwerpen, Belgium",1993-05-13
+Belgium,14,Dries Mertens,"MF,FW",1.tr Galatasaray,"Leuven, Belgium",1987-05-06
+Belgium,15,Thomas Meunier,DF,1.de Dortmund,"Sainte-Ode, Belgium",1991-09-12
+Belgium,12,Simon Mignolet,GK,1.be Club Brugge,"Sint-Truiden, Belgium",1988-03-06
+Belgium,18,Amadou Onana,MF,1.eng Everton,"Brussels, Belgium",2001-08-16
+Belgium,24,Loïs Openda,FW,1.fr Lens,"Liège, Belgium",2000-02-16
+Belgium,3,Arthur Theate,DF,1.fr Rennes,"Liège, Belgium",2000-05-25
+Belgium,8,Youri Tielemans,MF,1.eng Leicester City,"Sint-Pieters-Leeuw, Belgium",1997-05-07
+Belgium,17,Leandro Trossard,"FW,MF",1.eng Brighton,"Maasmechelen, Belgium",1994-12-04
+Belgium,20,Hans Vanaken,MF,1.be Club Brugge,"Neerpelt, Belgium",1992-08-24
+Belgium,5,Jan Vertonghen,DF,1.be Anderlecht,"Sint-Niklaas, Belgium",1987-04-24
+Belgium,6,Axel Witsel,MF,1.es Atlético Madrid,"Liège, Belgium",1989-01-12
+Brazil,1,Alisson,GK,1.eng Liverpool,"Novo Hamburgo, Brazil",1992-10-02
+Brazil,13,Dani Alves,DF,1.mx UNAM,"Juazeiro, Brazil",1983-05-06
+Brazil,19,Antony,FW,1.eng Manchester Utd,"São Paulo, Brazil",2000-02-24
+Brazil,24,Gleison Bremer,DF,1.it Juventus,"Itapiranga, Brazil",1997-03-18
+Brazil,5,Casemiro,MF,1.eng Manchester Utd,"São José dos Campos, Brazil",1992-02-23
+Brazil,2,Danilo,DF,1.it Juventus,"Bicas, Brazil",1991-07-15
+Brazil,23,Ederson,GK,1.eng Manchester City,"Osasco, Brazil",1993-08-17
+Brazil,15,Fabinho,MF,1.eng Liverpool,"Campinas, Brazil",1993-10-23
+Brazil,8,Fred,MF,1.eng Manchester Utd,"Belo Horizonte, Brazil",1993-03-05
+Brazil,17,Bruno Guimarães,MF,1.eng Newcastle Utd,"Rio de Janeiro, Brazil",1997-11-16
+Brazil,18,Gabriel Jesus,FW,1.eng Arsenal,"São Paulo, Brazil",1997-04-03
+Brazil,20,Vinicius Júnior,FW,1.es Real Madrid,"São Gonçalo, Brazil",2000-07-12
+Brazil,4,Marquinhos,DF,1.fr Paris S-G,"São Paulo, Brazil",1994-05-14
+Brazil,26,Martinelli,FW,1.eng Arsenal,"Guarulhos, Brazil",2001-06-18
+Brazil,14,Éder Militão,DF,1.es Real Madrid,"Sertãozinho, Brazil",1998-01-18
+Brazil,10,Neymar,MF,1.fr Paris S-G,"Mogi das Cruzes, Brazil",1992-02-05
+Brazil,7,Lucas Paquetá,MF,1.eng West Ham,"Rio de Janeiro, Brazil",1997-08-27
+Brazil,25,Pedro,FW,1.br Flamengo,"Rio de Janeiro, Brazil",1997-06-20
+Brazil,11,Raphinha,FW,1.es Barcelona,"Porto Alegre, Brazil",1996-12-14
+Brazil,22,Everton Ribeiro,MF,1.br Flamengo,"Arujá, Brazil",1989-04-10
+Brazil,9,Richarlison,FW,1.eng Tottenham,"Nova Venécia, Brazil",1997-05-10
+Brazil,21,Rodrygo,"MF,FW",1.es Real Madrid,"Osasco, Brazil",2001-01-09
+Brazil,6,Alex Sandro,DF,1.it Juventus,"Catanduva, Brazil",1991-01-26
+Brazil,3,Thiago Silva,DF,1.eng Chelsea,"Rio de Janeiro, Brazil",1984-09-22
+Brazil,16,Alex Telles,DF,1.es Sevilla,"Caxias do Sul, Brazil",1992-12-15
+Brazil,12,Wéverton,GK,1.br Palmeiras,"Rio Branco, Brazil",1987-12-13
+Cameroon,10,Vincent Aboubakar,FW,1.sa Al-Nassr,"Yaoundé, Cameroon",1992-01-22
+Cameroon,11,Christian Bassogog,MF,1.cn Shanghai Shen,"Douala, Cameroon",1995-10-18
+Cameroon,21,Jean-Charles Castelletto,DF,1.fr Nantes,"Clamart, France",1995-01-26
+Cameroon,24,Enzo Ebosse,DF,1.it Udinese,"Amiens, France",1999-03-11
+Cameroon,16,Devis Epassy,GK,1.sa Abha,"Soisy-sous-Montmorency, France",1993-02-02
+Cameroon,19,Collins Fai,DF,1.sa Al-Ta'ee,"Bamenda, Cameroon",1992-08-13
+Cameroon,18,Martin Hongla,MF,1.it Hellas Verona,"Yaoundé, Cameroon",1998-03-16
+Cameroon,15,Pierre Kunde,MF,1.gr Olympiacos,"Limbe, Cameroon",1995-07-26
+Cameroon,13,Eric Maxim Choupo-Moting,"FW,MF",1.de Bayern Munich,"Hamburg, Germany",1989-03-23
+Cameroon,17,Olivier Mbaizo,DF,1.us Philadelphia,"Douala, Cameroon",1997-08-15
+Cameroon,20,Bryan Mbeumo,"FW,MF",1.eng Brentford,"Avallon, France",1999-08-07
+Cameroon,7,Georges-Kévin N'Koudou,"FW,MF",1.tr Beşiktaş,"Versailles, France",1995-02-13
+Cameroon,6,Moumi Ngamaleu,"FW,MF",1.ru Dynamo Mosc,"Yaoundé, Cameroon",1994-07-09
+Cameroon,1,Simon Ngapandouetnbu,GK,1.fr Marseille,"Foumban, Cameroon",2003-04-12
+Cameroon,2,Jerome Ngom Mbekeli,MF,1.cm Colombe Sportive du Dja et Lobo,"Yaoundé, Cameroon",1998-09-30
+Cameroon,3,Nicolas Nkoulou,DF,1.gr Aris,"Yaoundé, Cameroon",1990-03-27
+Cameroon,9,Jean-Pierre Nsame,FW,1.ch Young Boys,"Douala, Cameroon",1993-05-01
+Cameroon,22,Olivier Ntcham,MF,2.eng Swansea City,"Longjumeau, France",1996-02-09
+Cameroon,23,André Onana,GK,1.it Inter,"Mefou-et-Akono, Cameroon",1996-04-02
+Cameroon,5,Gaël Ondoua,MF,2.de Hannover 96,"Yaoundé, Cameroon",1995-11-04
+Cameroon,14,Samuel Oum Gouet,MF,1.be Mechelen,"Ayos, Cameroon",1997-12-13
+Cameroon,26,Marou Souaibou,FW,1.cm Coton Sport FC de Garoua,"Garoua, Cameroon",2000-12-03
+Cameroon,12,Karl Toko Ekambi,"FW,MF",1.fr Lyon,"Paris, France",1992-09-14
+Cameroon,25,Nouhou Tolo,DF,1.us Seattle,"Douala, Cameroon",1997-06-23
+Cameroon,4,Christopher Wooh,DF,1.fr Rennes,"Louvres, France",2001-09-18
+Cameroon,8,Andre-Frank Zambo Anguissa,MF,1.it Napoli,"Yaoundé, Cameroon",1995-11-16
+Canada,3,Sam Adekugbe,DF,1.tr Hatayspor,"London, England, United Kingdom",1995-01-16
+Canada,18,Milan Borjan,GK,1.rs Red Star,"Knin, Croatia",1987-10-23
+Canada,11,Tajon Buchanan,"MF,DF",1.be Club Brugge,"Brampton, ON, Canada",1999-02-08
+Canada,9,Lucas Cavallini,FW,1.us Vancouver,"Toronto, ON, Canada",1992-12-28
+Canada,25,Derek Cornelius,"DF,FW",1.gr Panetolikos,"Ajax, ON, Canada",1997-11-25
+Canada,20,Jonathan David,"FW,MF",1.fr Lille,"Brooklyn, NY, United States",2000-01-14
+Canada,19,Alphonso Davies,"MF,DF",1.de Bayern Munich,"Monrovia, Liberia",2000-11-02
+Canada,7,Stephen Eustáquio,MF,1.pt Porto,"Leamington, ON, Canada",1996-12-21
+Canada,8,Liam Fraser,MF,2.be KMSK Deinze,"Toronto, ON, Canada",1998-02-13
+Canada,10,Junior Hoilett,"FW,MF",2.eng Reading,"Brampton, ON, Canada",1990-06-05
+Canada,13,Atiba Hutchinson,MF,1.tr Beşiktaş,"Brampton, ON, Canada",1983-02-08
+Canada,2,Alistair Johnston,DF,1.us CF Montréal,"Vancouver, BC, Canada",1998-10-08
+Canada,14,Mark-Anthony Kaye,MF,1.us Toronto FC,"Toronto, ON, Canada",1994-12-02
+Canada,15,Ismaël Koné,"MF,DF",1.us CF Montréal,"Abidjan, Côte d'Ivoire",2002-06-06
+Canada,17,Cyle Larin,FW,1.be Club Brugge,"Brampton, ON, Canada",1995-04-17
+Canada,22,Richie Laryea,"DF,MF",1.us Toronto FC,"Toronto, ON, Canada",1995-01-07
+Canada,23,Liam Millar,DF,1.ch Basel,"Toronto, ON, Canada",1999-09-27
+Canada,4,Kamal Miller,DF,1.us CF Montréal,"Scarborough Village, ON, Canada",1997-05-16
+Canada,21,Jonathan Osorio,"MF,FW",1.us Toronto FC,"Toronto, ON, Canada",1992-06-12
+Canada,16,James Pantemis,GK,1.us CF Montréal,"Montréal, QC, Canada",1997-02-21
+Canada,6,Samuel Piette,MF,1.us CF Montréal,"Repentigny, QC, Canada",1994-11-12
+Canada,1,Dayne St. Clair,GK,1.us Minnesota Utd,"Pickering, ON, Canada",1997-05-09
+Canada,12,Ike Ugbo,FW,1.fr Troyes,"London, England, United Kingdom",1998-09-21
+Canada,5,Steven Vitória,DF,1.pt Chaves,"Toronto, ON, Canada",1987-01-11
+Canada,26,Joel Waterman,DF,1.us CF Montréal,"Langley, BC, Canada",1996-01-24
+Canada,24,David Wotherspoon,MF,1.sct St Johnstone,"Perth, Scotland, United Kingdom",1990-01-16
+Costa Rica,20,Brandon Aguilera,MF,1.cr Asociación Deportiva Guanacasteca,"Naranjo, Costa Rica",2003-06-28
+Costa Rica,18,Esteban Alvarado,GK,1.cr Club Sport Herediano,"Siquirres, Costa Rica",1989-04-28
+Costa Rica,9,Jewison Bennette,MF,2.eng Sunderland,"Heredia, Costa Rica",2004-06-15
+Costa Rica,5,Celso Borges,MF,1.cr Liga Deportiva Alajuelense,"San José, Costa Rica",1988-05-27
+Costa Rica,15,Francisco Calvo,DF,1.tr Konyaspor,"San José, Costa Rica",1992-07-08
+Costa Rica,12,Joel Campbell,"FW,MF",1.mx León,"San José, Costa Rica",1992-06-26
+Costa Rica,2,Daniel Chacón,MF,1.cr CS Cartaginés,"Turrialba, Costa Rica",2001-04-11
+Costa Rica,7,Anthony Contreras,"FW,MF",1.cr Club Sport Herediano,"San José, Costa Rica",2000-01-29
+Costa Rica,6,Óscar Duarte,DF,1.sa Al-Wehda,"Masaya, Nicaragua",1989-06-03
+Costa Rica,4,Keysher Fuller,"DF,MF",1.cr Club Sport Herediano,"Limón, Costa Rica",1994-07-11
+Costa Rica,25,Anthony Hernández,FW,1.cr Puntarenas FC,"Puntarenas, Costa Rica",2001-10-11
+Costa Rica,21,Douglas López,MF,1.cr Club Sport Herediano,"Alajuela, Costa Rica",1998-09-21
+Costa Rica,16,Carlos Martínez,DF,1.cr AD San Carlos,"Santa Ana, Costa Rica",1999-03-30
+Costa Rica,22,Rónald Matarrita,"DF,MF",1.us FC Cincinnati,"San Ramón, Costa Rica",1994-07-09
+Costa Rica,1,Keylor Navas,GK,1.fr Paris S-G,"San Isidro, Costa Rica",1986-12-15
+Costa Rica,8,Bryan Oviedo,DF,1.us Real Salt Lake,"San José, Costa Rica",1990-02-18
+Costa Rica,3,Juan Pablo Vargas,DF,1.co Millonarios,"Sarchí, Costa Rica",1995-06-06
+Costa Rica,10,Bryan Ruiz,MF,1.cr Liga Deportiva Alajuelense,"San José, Costa Rica",1985-08-18
+Costa Rica,14,Youstin Salas,"DF,MF",1.cr Deportivo Saprissa,"Cariari, Costa Rica",1996-06-17
+Costa Rica,23,Patrick Sequeira,GK,2.es Lugo,"Limón, Costa Rica",1999-03-01
+Costa Rica,17,Yeltsin Tejeda,MF,1.cr Club Sport Herediano,"Limón, Costa Rica",1992-03-17
+Costa Rica,13,Gerson Torres,MF,1.cr Club Sport Herediano,Costa Rica,1997-08-28
+Costa Rica,11,Johan Venegas,"FW,MF",1.cr Liga Deportiva Alajuelense,"Limón, Costa Rica",1988-11-27
+Costa Rica,19,Kendall Waston,DF,1.cr Deportivo Saprissa,"San José, Costa Rica",1988-01-01
+Costa Rica,24,Roan Wilson,MF,1.cr Municipal Grecia,"Limón, Costa Rica",2002-05-01
+Costa Rica,26,Álvaro Zamora,MF,1.cr Deportivo Saprissa,"San José, Costa Rica",2002-03-09
+Croatia,3,Borna Barišić,DF,1.sct Rangers,"Grad Osijek, Croatia",1992-11-10
+Croatia,11,Marcelo Brozović,MF,1.it Inter,"Zagreb, Croatia",1992-11-16
+Croatia,17,Ante Budimir,FW,1.es Osasuna,"Zenica, Bosnia and Herzegovina",1991-07-22
+Croatia,5,Martin Erlic,DF,1.it Sassuolo,"Zadar, Croatia",1998-01-24
+Croatia,12,Ivo Grbić,GK,1.es Atlético Madrid,"Grad Split, Croatia",1996-01-18
+Croatia,20,Joško Gvardiol,DF,1.de RB Leipzig,"Zagreb, Croatia",2002-01-23
+Croatia,23,Ivica Ivušić,GK,1.hr Osijek,"Grad Rijeka, Croatia",1995-02-01
+Croatia,26,Kristijan Jakić,MF,1.de Eint Frankfurt,"Grad Split, Croatia",1997-05-14
+Croatia,22,Josip Juranović,DF,1.sct Celtic,"Zagreb, Croatia",1995-08-16
+Croatia,8,Mateo Kovačić,MF,1.eng Chelsea,"Linz, Austria",1994-05-06
+Croatia,9,Andrej Kramarić,FW,1.de Hoffenheim,"Zagreb, Croatia",1991-06-19
+Croatia,14,Marko Livaja,"FW,MF",1.hr Hajduk Split,"Grad Split, Croatia",1993-08-26
+Croatia,1,Dominik Livaković,GK,1.hr Dinamo Zagreb,"Zadar, Croatia",1995-01-09
+Croatia,6,Dejan Lovren,DF,1.ru Zenit,"Zenica, Bosnia and Herzegovina",1989-07-05
+Croatia,7,Lovro Majer,MF,1.fr Rennes,"Zagreb, Croatia",1998-01-17
+Croatia,10,Luka Modrić,MF,1.es Real Madrid,"Zadar, Croatia",1985-09-09
+Croatia,18,Mislav Oršić,FW,1.hr Dinamo Zagreb,"Zagreb, Croatia",1992-12-29
+Croatia,15,Mario Pašalić,FW,1.it Atalanta,"Mainz, Germany",1995-02-09
+Croatia,4,Ivan Perišić,"FW,DF",1.eng Tottenham,"Grad Split, Croatia",1989-02-02
+Croatia,16,Bruno Petković,FW,1.hr Dinamo Zagreb,"Metković, Croatia",1994-09-16
+Croatia,19,Borna Sosa,DF,1.de Stuttgart,"Zagreb, Croatia",1998-01-21
+Croatia,2,Josip Stanišić,DF,1.de Bayern Munich,"München, Germany",2000-04-02
+Croatia,25,Luka Sučić,MF,1.at RB Salzburg,"Linz, Austria",2002-09-08
+Croatia,24,Josip Šutalo,DF,1.hr Dinamo Zagreb,"Čapljina, Bosnia and Herzegovina",2000-02-28
+Croatia,21,Domagoj Vida,"DF,MF",1.gr AEK Athens,"Grad Osijek, Croatia",1989-04-29
+Croatia,13,Nikola Vlašić,"FW,MF",1.it Torino,"Grad Split, Croatia",1997-10-04
+Denmark,2,Joachim Andersen,DF,1.eng Crystal Palace,"Frederiksberg, Denmark",1996-05-31
+Denmark,26,Alexander Bah,DF,1.pt Benfica,"Odense, Denmark",1997-12-09
+Denmark,9,Martin Braithwaite,"FW,MF",1.es Espanyol,"Esbjerg, Denmark",1991-06-05
+Denmark,6,Andreas Christensen,DF,1.es Barcelona,"Lillerød, Denmark",1996-04-10
+Denmark,16,Oliver Christensen,GK,1.de Hertha BSC,"Kerteminde, Denmark",1999-03-22
+Denmark,21,Andreas Cornelius,FW,1.dk FC Copenhagen,"Copenhagen, Denmark",1993-03-16
+Denmark,14,Mikkel Damsgaard,"MF,FW",1.eng Brentford,"Jyllinge, Denmark",2000-07-03
+Denmark,8,Thomas Delaney,MF,1.es Sevilla,"Frederiksberg, Denmark",1991-09-03
+Denmark,12,Kasper Dolberg,FW,1.es Sevilla,"Silkeborg, Denmark",1997-10-06
+Denmark,10,Christian Eriksen,MF,1.eng Manchester Utd,"Middelfart, Denmark",1992-02-14
+Denmark,23,Pierre Højbjerg,MF,1.eng Tottenham,"Copenhagen, Denmark",1995-08-05
+Denmark,7,Mathias Jensen,MF,1.eng Brentford,"Jerslev, Denmark",1996-01-01
+Denmark,4,Simon Kjær,DF,1.it Milan,"Horsens, Denmark",1989-03-26
+Denmark,25,Jesper Lindstrøm,"MF,FW",1.de Eint Frankfurt,"Taastrup, Denmark",2000-02-29
+Denmark,5,Joakim Mæhle,DF,1.it Atalanta,"Østervrå, Denmark",1997-05-20
+Denmark,3,Victor Nelsson,DF,1.tr Galatasaray,"Hornbæk, Denmark",1998-10-14
+Denmark,13,Rasmus Nissen,DF,1.eng Leeds United,"Brande, Denmark",1997-07-11
+Denmark,15,Christian Nørgaard,MF,1.eng Brentford,"Copenhagen, Denmark",1994-03-10
+Denmark,20,Yussuf Poulsen,FW,1.de RB Leipzig,"Copenhagen, Denmark",1994-06-15
+Denmark,22,Frederik Rønnow,GK,1.de Union Berlin,"Horsens, Denmark",1992-08-04
+Denmark,1,Kasper Schmeichel,GK,1.fr Nice,"Copenhagen, Denmark",1986-11-05
+Denmark,11,Andreas Skov Olsen,"FW,MF",1.be Club Brugge,"Hillerød, Denmark",1999-12-29
+Denmark,24,Robert Skov,DF,1.de Hoffenheim,"Marbella, Spain",1996-05-20
+Denmark,17,Jens Stryger Larsen,"DF,MF",1.tr Trabzonspor,"Sakskøbing, Denmark",1991-02-21
+Denmark,18,Daniel Wass,"DF,MF",1.dk Brøndby,"Gladsaxe Municipality, Denmark",1989-05-31
+Denmark,19,Jonas Wind,FW,1.de Wolfsburg,"Hvidovre, Denmark",1999-02-07
+Ecuador,4,Robert Arboleda,DF,1.br São Paulo,"Esmeraldas, Ecuador",1991-10-22
+Ecuador,14,Xavier Arreaga,DF,1.us Seattle,"Guayaquil, Ecuador",1994-09-28
+Ecuador,23,Moisés Caicedo,MF,1.eng Brighton,"Santo Domingo de los Colorados, Ecuador",2001-11-02
+Ecuador,5,José Cifuentes,MF,1.us Los Angeles FC,"Esmeraldas, Ecuador",1999-03-12
+Ecuador,22,Alexander Domínguez,GK,1.ec LDU de Quito,"Esmeraldas, Ecuador",1987-06-05
+Ecuador,11,Michael Estrada,FW,1.mx Cruz Azul,"Guayaquil, Ecuador",1996-04-07
+Ecuador,7,Pervis Estupiñán,DF,1.eng Brighton,"Esmeraldas, Ecuador",1998-01-21
+Ecuador,21,Alan Franco,MF,1.ar Talleres,"Alfredo Baquerizo Moreno, Ecuador",1998-08-21
+Ecuador,1,Hernán Galíndez,GK,1.ec SD Aucas,"Rosario, Argentina",1987-03-30
+Ecuador,8,Carlos Gruezo,MF,1.de Augsburg,"Santo Domingo de los Colorados, Ecuador",1995-04-19
+Ecuador,3,Piero Hincapié,DF,1.de Leverkusen,"Esmeraldas, Ecuador",2002-01-09
+Ecuador,10,Romario Ibarra,MF,1.mx Pachuca,"Atuntaqui, Ecuador",1994-09-24
+Ecuador,26,Kevin Jauch,FW,2.ec CA Santo Domingo,"Tulcán, Ecuador",1992-11-24
+Ecuador,15,Ángel Mena,"FW,MF",1.mx León,"Guayaquil, Ecuador",1988-01-21
+Ecuador,20,Jhegson Méndez,MF,1.us Los Angeles FC,"Mira, Ecuador",1997-04-26
+Ecuador,6,William Pacho,DF,1.be Antwerp,"Rosa Zarate, Ecuador",2001-10-16
+Ecuador,18,Diego Palacios,DF,1.us Los Angeles FC,"Guayaquil, Ecuador",1999-07-12
+Ecuador,19,Gonzalo Plata,"MF,FW",1.es Valladolid,"Guayaquil, Ecuador",2000-11-01
+Ecuador,25,Jackson Porozo,DF,1.fr Troyes,"San Lorenzo, Ecuador",2000-08-04
+Ecuador,17,Ángelo Preciado,DF,1.be Genk,"Shushufindi, Ecuador",1998-02-18
+Ecuador,9,Ayrton Preciado,MF,1.mx Santos,"Esmeraldas, Ecuador",1994-07-17
+Ecuador,12,Moisés Ramírez,GK,1.ec Independiente,"Guayaquil, Ecuador",2000-09-09
+Ecuador,24,Djorkaeff Reasco,FW,1.ar Newell's OB,"Quito, Ecuador",1999-01-18
+Ecuador,16,Jeremy Sarmiento,"MF,FW",1.eng Brighton,"Madrid, Spain",2002-06-16
+Ecuador,2,Félix Torres Caicedo,DF,1.mx Santos,"San Lorenzo, Ecuador",1997-01-11
+Ecuador,13,Enner Valencia,"FW,MF",1.tr Fenerbahçe,"San Lorenzo, Ecuador",1989-11-04
+England,18,Trent Alexander-Arnold,DF,1.eng Liverpool,"Liverpool, England, United Kingdom",1998-10-07
+England,22,Jude Bellingham,MF,1.de Dortmund,"Stourbridge, England, United Kingdom",2003-06-29
+England,16,Conor Coady,"DF,MF",1.eng Everton,"Liverpool, England, United Kingdom",1993-02-25
+England,15,Eric Dier,DF,1.eng Tottenham,"Cheltenham, England, United Kingdom",1994-01-15
+England,20,Phil Foden,"FW,MF",1.eng Manchester City,"Stockport, England, United Kingdom",2000-05-28
+England,26,Conor Gallagher,MF,1.eng Chelsea,"Epsom, England, United Kingdom",2000-02-06
+England,7,Jack Grealish,FW,1.eng Manchester City,"Birmingham, England, United Kingdom",1995-09-10
+England,8,Jordan Henderson,MF,1.eng Liverpool,"Sunderland, England, United Kingdom",1990-06-17
+England,9,Harry Kane,FW,1.eng Tottenham,"Walthamstow, England, United Kingdom",1993-07-28
+England,25,James Maddison,"FW,MF",1.eng Leicester City,"Coventry, England, United Kingdom",1996-11-23
+England,6,Harry Maguire,DF,1.eng Manchester Utd,"Sheffield, England, United Kingdom",1993-03-05
+England,19,Mason Mount,MF,1.eng Chelsea,"Portsmouth, England, United Kingdom",1999-01-10
+England,14,Kalvin Phillips,MF,1.eng Manchester City,"Leeds, England, United Kingdom",1995-12-02
+England,1,Jordan Pickford,GK,1.eng Everton,"Washington, England, United Kingdom",1994-03-07
+England,13,Nick Pope,GK,1.eng Newcastle Utd,"Soham, England, United Kingdom",1992-04-19
+England,23,Aaron Ramsdale,GK,1.eng Arsenal,"Staffordshire, England, United Kingdom",1998-05-14
+England,11,Marcus Rashford,FW,1.eng Manchester Utd,"Wythenshawe, England, United Kingdom",1997-10-31
+England,4,Declan Rice,MF,1.eng West Ham,"London, England, United Kingdom",1999-01-14
+England,17,Bukayo Saka,FW,1.eng Arsenal,"Ealing, England, United Kingdom",2001-09-05
+England,3,Luke Shaw,DF,1.eng Manchester Utd,"Kingston upon Thames, England, United Kingdom",1995-07-12
+England,10,Raheem Sterling,FW,1.eng Chelsea,"Kingston, Jamaica",1994-12-08
+England,5,John Stones,DF,1.eng Manchester City,"Barnsley, England, United Kingdom",1994-05-28
+England,12,Kieran Trippier,DF,1.eng Newcastle Utd,"Bury, England, United Kingdom",1990-09-19
+England,2,Kyle Walker,DF,1.eng Manchester City,"Sheffield, England, United Kingdom",1990-05-28
+England,21,Ben White,DF,1.eng Arsenal,"Poole, England, United Kingdom",1997-10-08
+England,24,Callum Wilson,FW,1.eng Newcastle Utd,"Coventry, England, United Kingdom",1992-02-27
+France,23,Alphonse Areola,GK,1.eng West Ham,"Paris, France",1993-02-27
+France,25,Eduardo Camavinga,DF,1.es Real Madrid,"Cabinda, Angola",2002-11-10
+France,20,Kingsley Coman,FW,1.de Bayern Munich,"Paris, France",1996-06-13
+France,11,Ousmane Dembélé,FW,1.es Barcelona,"Vernon, France",1997-05-15
+France,3,Axel Disasi,DF,1.fr Monaco,"Gonesse, France",1998-03-11
+France,13,Youssouf Fofana,MF,1.fr Monaco,"Paris, France",1999-01-10
+France,9,Olivier Giroud,FW,1.it Milan,"Chambéry, France",1986-09-30
+France,7,Antoine Griezmann,MF,1.es Atlético Madrid,"Mâcon, France",1991-03-21
+France,6,Mattéo Guendouzi,"FW,MF",1.fr Marseille,"Poissy, France",1999-04-14
+France,21,Lucas Hernández,DF,1.de Bayern Munich,"Marseille, France",1996-02-14
+France,22,Theo Hernández,DF,1.it Milan,"Marseille, France",1997-10-06
+France,12,Randal Kolo Muani,FW,1.de Eint Frankfurt,"Bondy, France",1998-12-05
+France,24,Ibrahima Konaté,DF,1.eng Liverpool,"Paris, France",1999-05-25
+France,5,Jules Koundé,DF,1.es Barcelona,"Paris, France",1998-11-12
+France,1,Hugo Lloris,GK,1.eng Tottenham,"Nice, France",1986-12-26
+France,16,Steve Mandanda,GK,1.fr Rennes,"Kinshasa, Congo DR",1985-03-28
+France,10,Kylian Mbappé,FW,1.fr Paris S-G,"Paris 19 Buttes-Chaumont, France",1998-12-20
+France,2,Benjamin Pavard,DF,1.de Bayern Munich,"Maubeuge, France",1996-03-28
+France,14,Adrien Rabiot,MF,1.it Juventus,"Saint-Maurice, France",1995-04-03
+France,17,William Saliba,DF,1.eng Arsenal,"Bondy, France",2001-03-24
+France,8,Aurélien Tchouaméni,MF,1.es Real Madrid,"Rouen, France",2000-01-27
+France,26,Marcus Thuram,FW,1.de M'Gladbach,"Provincia di Parma, Italy",1997-08-06
+France,18,Dayot Upamecano,DF,1.de Bayern Munich,"Évreux, France",1998-10-27
+France,4,Raphaël Varane,DF,1.eng Manchester Utd,"Lille, France",1993-04-25
+France,15,Jordan Veretout,MF,1.fr Marseille,"Ancenis, France",1993-03-01
+Germany,24,Karim Adeyemi,FW,1.de Dortmund,"München, Germany",2002-01-18
+Germany,25,Armel Bella Kotchap,DF,1.eng Southampton,"Paris, France",2001-12-11
+Germany,17,Julian Brandt,"FW,MF",1.de Dortmund,"Bremen, Germany",1996-05-02
+Germany,9,Niclas Füllkrug,FW,1.de Werder Bremen,"Hannover, Germany",1993-02-09
+Germany,4,Matthias Ginter,DF,1.de Freiburg,"Freiburg, Germany",1994-01-19
+Germany,10,Serge Gnabry,"FW,MF",1.de Bayern Munich,"Stuttgart, Germany",1995-07-14
+Germany,8,Leon Goretzka,MF,1.de Bayern Munich,"Bochum, Germany",1995-02-06
+Germany,11,Mario Götze,MF,1.de Eint Frankfurt,"Memmingen, Germany",1992-06-03
+Germany,21,İlkay Gündoğan,MF,1.eng Manchester City,"Gelsenkirchen, Germany",1990-10-24
+Germany,20,Christian Günter,"DF,MF",1.de Freiburg,"Villingen-Schwenningen, Germany",1993-02-28
+Germany,7,Kai Havertz,FW,1.eng Chelsea,"Aachen, Germany",1999-06-11
+Germany,18,Jonas Hofmann,FW,1.de M'Gladbach,"Heidelberg, Germany",1992-07-14
+Germany,5,Thilo Kehrer,DF,1.eng West Ham,"Tübingen, Germany",1996-09-21
+Germany,6,Joshua Kimmich,"MF,DF",1.de Bayern Munich,"Rottweil, Germany",1995-02-08
+Germany,16,Lukas Klostermann,DF,1.de RB Leipzig,"Herdecke, Germany",1996-06-03
+Germany,26,Youssoufa Moukoko,FW,1.de Dortmund,"Yaoundé, Cameroon",2004-11-20
+Germany,13,Thomas Müller,"FW,MF",1.de Bayern Munich,"Weilheim, Germany",1989-09-13
+Germany,14,Jamal Musiala,"MF,FW",1.de Bayern Munich,"Stuttgart, Germany",2003-02-26
+Germany,1,Manuel Neuer,GK,1.de Bayern Munich,"Gelsenkirchen, Germany",1986-03-27
+Germany,3,David Raum,DF,1.de RB Leipzig,"Nürnberg, Germany",1998-04-22
+Germany,2,Antonio Rüdiger,DF,1.es Real Madrid,"Berlin, Germany",1993-03-03
+Germany,19,Leroy Sané,"FW,DF",1.de Bayern Munich,"Essen, Germany",1996-01-11
+Germany,23,Nico Schlotterbeck,DF,1.de Dortmund,"Waiblingen, Germany",1999-12-01
+Germany,15,Niklas Süle,DF,1.de Dortmund,"Frankfurt am Main, Germany",1995-09-03
+Germany,22,Marc-André ter Stegen,GK,1.es Barcelona,"Mönchengladbach, Germany",1992-04-30
+Germany,12,Kevin Trapp,GK,1.de Eint Frankfurt,"Merzig, Germany",1990-07-08
+Ghana,21,Salis Abdul Samed,MF,1.fr Lens,"Accra, Ghana",2000-03-26
+Ghana,13,Daniel Afriyie Barnieh,FW,1.gh Accra Hearts of Oak SC,"Kumasi, Ghana",2001-06-26
+Ghana,15,Joseph Aidoo,DF,1.es Celta Vigo,"Accra, Ghana",1995-09-29
+Ghana,18,Daniel Amartey,DF,1.eng Leicester City,"Accra, Ghana",1994-12-21
+Ghana,1,Lawrence Ati-Zigi,GK,1.ch St. Gallen,"Accra, Ghana",1996-11-29
+Ghana,10,André Ayew,"MF,FW",1.qa Al Sadd SC,"Seclin, France",1989-12-17
+Ghana,9,Jordan Ayew,FW,1.eng Crystal Palace,"Marseille, France",1991-09-11
+Ghana,11,Osman Bukari,MF,1.rs Red Star,"Accra, Ghana",1998-12-13
+Ghana,23,Alexander Djiku,"DF,FW",1.fr Strasbourg,"Montpellier, France",1994-08-09
+Ghana,7,Abdul Fatawu Issahaku,FW,1.pt Sporting CP,"Tamale, Ghana",2004-03-08
+Ghana,12,Danlad Ibrahim,GK,1.gh Asante Kotoko SC,"Accra, Ghana",2002-12-02
+Ghana,8,Daniel Kyereh,"MF,DF",1.de Freiburg,"Accra, Ghana",1996-03-08
+Ghana,2,Tariq Lamptey,DF,1.eng Brighton,"Hillingdon, England, United Kingdom",2000-09-30
+Ghana,14,Gideon Mensah,DF,1.fr Auxerre,"Accra, Ghana",1998-07-18
+Ghana,20,Kudus Mohammed,"FW,MF",1.nl Ajax,"Accra, Ghana",2000-08-02
+Ghana,16,Manaf Nurudeen,GK,1.be Eupen,"Accra, Ghana",1999-02-08
+Ghana,3,Denis Odoi,DF,1.be Club Brugge,"Leuven, Belgium",1988-05-27
+Ghana,6,Elisha Owusu,MF,1.be Gent,"Montreuil, France",1997-11-07
+Ghana,5,Thomas Partey,MF,1.eng Arsenal,"Odumase Krobo, Ghana",1993-06-13
+Ghana,17,Baba Rahman,DF,2.eng Reading,"Tamale, Ghana",1994-07-02
+Ghana,4,Mohammed Salisu,DF,1.eng Southampton,"Benin, Benin",1999-04-17
+Ghana,26,Alidu Seidu,DF,1.fr Clermont Foot,"Accra, Ghana",2000-06-04
+Ghana,25,Antoine Semenyo,"FW,MF",2.eng Bristol City,"London, England, United Kingdom",2000-01-07
+Ghana,24,Kamal Sowah,"FW,MF",1.be Club Brugge,"Accra, Ghana",2000-01-09
+Ghana,22,Kamaldeen Sulemana,FW,1.fr Rennes,"Techiman, Ghana",2002-02-15
+Ghana,19,Iñaki Williams,FW,1.es Athletic Club,"Bilbao, Spain",1994-06-15
+IR Iran,22,Amir Abedzadeh,GK,2.es Ponferradina,"Tehran, Iran",1993-04-26
+IR Iran,11,Vahid Amiri,"FW,MF",1.ir Persepolis,"Khorramabad, Iran",1988-04-02
+IR Iran,10,Karim Ansarifard,"FW,MF",1.cy AC Omonia,"Ardabīl, Iran",1990-04-03
+IR Iran,20,Sardar Azmoun,FW,1.de Leverkusen,"Gonbad-e Kāvūs, Iran",1995-01-01
+IR Iran,1,Alireza Beiranvand,GK,1.ir Persepolis,"Khorramabad, Iran",1992-09-21
+IR Iran,15,Roozbeh Cheshmi,"DF,MF",1.ir Esteghlal,"Tehran, Iran",1993-07-24
+IR Iran,6,Saeid Ezatolahi,MF,2.dk Vejle BK,"Bandar-e Anzalī, Iran",1996-10-01
+IR Iran,14,Saman Ghoddos,MF,1.eng Brentford,"Malmö, Sweden",1993-09-06
+IR Iran,17,Ali Gholizadeh,"MF,FW",1.be Charleroi,"Tehran, Iran",1996-03-10
+IR Iran,3,Ehsan Hajsafi,"MF,DF",1.gr AEK Athens,"Kāshān, Iran",1990-02-25
+IR Iran,24,Hossein Hosseini,GK,1.ir Esteghlal,"Shiraz, Iran",1992-06-30
+IR Iran,19,Majid Hosseini,DF,1.tr Kayserispor,"Tehran, Iran",1996-06-20
+IR Iran,7,Alireza Jahanbakhsh,MF,1.nl Feyenoord,"Jīrandeh, Iran",1993-08-11
+IR Iran,25,Abolfazl Jalali,DF,1.ir Esteghlal,"Āmol, Iran",1998-06-26
+IR Iran,13,Hossein Kanaanizadegan,DF,1.qa Al Ahli SC,"Bandar-e Māhshahr, Iran",1994-03-23
+IR Iran,18,Ali Karimi,MF,1.tr Kayserispor,"Isfahan, Iran",1994-02-11
+IR Iran,4,Shoja' Khalilzadeh,DF,1.qa Al Ahli SC,"Bahnemīr, Iran",1989-05-14
+IR Iran,5,Milad Mohammadi,DF,1.gr AEK Athens,"Tehran, Iran",1993-09-29
+IR Iran,2,Sadegh Moharrami,DF,1.hr Dinamo Zagreb,"Hashtpar, Iran",1996-03-01
+IR Iran,12,Payam Niazmand,GK,1.ir Sepahan,"Tehran, Iran",1995-04-06
+IR Iran,21,Ahmad Nourollahi,MF,1.ae Al-Ahli Dubai FC,"Āzādshahr, Iran",1993-02-02
+IR Iran,8,Morteza Pouraliganji,DF,1.ir Persepolis,"Bābol, Iran",1992-04-19
+IR Iran,23,Ramin Rezaeian,DF,1.ir Sepahan,"Sarī, Iran",1990-03-21
+IR Iran,9,Mehdi Taremi,FW,1.pt Porto,"Karaj, Iran",1992-07-18
+IR Iran,16,Mehdi Torabi,MF,1.ir Persepolis,"Eshtehārd, Iran",1994-09-10
+Japan,18,Takuma Asano,FW,1.de Bochum,"Komono, Japan",1994-11-10
+Japan,8,Ritsu Doan,FW,1.de Freiburg,"Amagasaki Shi, Japan",1998-06-16
+Japan,6,Wataru Endo,MF,1.de Stuttgart,"Yokohama Shi, Japan",1993-02-09
+Japan,12,Shūichi Gonda,GK,1.jp S-Pulse,"Setagaya-ku, Japan",1989-03-03
+Japan,4,Ko Itakura,DF,1.de M'Gladbach,"Yokohama Shi, Japan",1997-01-27
+Japan,26,Hiroki Ito,DF,1.de Stuttgart,"Hamamatsu-shi, Japan",1999-05-12
+Japan,14,Junya Ito,"MF,FW",1.fr Reims,"Yokosuka, Japan",1993-03-09
+Japan,15,Daichi Kamada,"FW,MF",1.de Eint Frankfurt,Japan,1996-08-05
+Japan,1,Eiji Kawashima,GK,1.fr Strasbourg,"Yono, Japan",1983-03-20
+Japan,11,Takefusa Kubo,FW,1.es Real Sociedad,"Kawasaki-shi, Japan",2001-06-04
+Japan,20,Shuto Machino,FW,1.jp Shonan Bellmare,"Iga-shi, Japan",1999-09-30
+Japan,25,Daizen Maeda,FW,1.sct Celtic,Japan,1997-10-20
+Japan,10,Takumi Minamino,FW,1.fr Monaco,"Izumisano Shi, Japan",1995-01-16
+Japan,9,Kaoru Mitoma,MF,1.eng Brighton,"Ōita, Japan",1997-05-20
+Japan,13,Hidemasa Morita,MF,1.pt Sporting CP,"Takatsuki, Japan",1995-05-10
+Japan,5,Yuto Nagatomo,"MF,DF",1.jp FC Tokyo,"Saijō Shi, Japan",1986-09-12
+Japan,19,Hiroki Sakai,"MF,DF",1.jp Urawa Reds,"Kashiwa, Japan",1990-04-12
+Japan,23,Daniel Schmidt,GK,1.be Sint-Truiden,"IL, United States",1992-02-03
+Japan,7,Gaku Shibasaki,MF,2.es Leganés,"Nobeji, Japan",1992-05-28
+Japan,24,Yuki Soma,"FW,MF",1.jp Grampus,Japan,1997-02-25
+Japan,17,Ao Tanaka,MF,2.de Düsseldorf,"Kawasaki, Japan",1998-09-10
+Japan,3,Shogo Taniguchi,DF,1.jp Kawa Frontale,"Kumamoto Shi, Japan",1991-07-15
+Japan,16,Takehiro Tomiyasu,"DF,MF",1.eng Arsenal,"Fukuoka, Japan",1998-11-05
+Japan,21,Ayase Ueda,FW,1.be Cercle Brugge,"Mito, Japan",1998-09-10
+Japan,2,Miki Yamane,"DF,MF",1.jp Kawa Frontale,"Yokohama Shi, Japan",1993-12-22
+Japan,22,Maya Yoshida,DF,1.de Schalke 04,"Nagasaki-shi, Japan",1988-08-24
+Korea Republic,12,Song Bumkeun,GK,1.kr Jeonbuk,"Seongnam-si, Korea Republic",1997-10-15
+Korea Republic,22,Kwon Chang-hoon,"FW,MF",1.kr Sangju Sangmu,Korea Republic,1994-06-30
+Korea Republic,14,Hong Chul,DF,1.kr Daegu,"Seongnam-si, Korea Republic",1990-09-17
+Korea Republic,9,Cho Guesung,FW,1.kr Jeonbuk,"Ansan-si, Korea Republic",1998-01-25
+Korea Republic,11,Hwang Hee-chan,"MF,FW",1.eng Wolves,"Chuncheon, Korea Republic",1996-01-26
+Korea Republic,7,Son Heung-min,"FW,MF",1.eng Tottenham,"Chuncheon, Korea Republic",1992-07-08
+Korea Republic,21,Cho Hyun-woo,GK,1.kr Ulsan Hyundai,"Seoul, Korea Republic",1991-09-25
+Korea Republic,6,Hwang In-beom,MF,1.gr Olympiacos,Korea Republic,1996-09-20
+Korea Republic,10,Lee Jae-sung,"MF,FW",1.de Mainz 05,Korea Republic,1992-08-10
+Korea Republic,3,Kim Jin-su,DF,1.kr Jeonbuk,"Jeonju, Korea Republic",1992-06-13
+Korea Republic,2,Yoon Jong-gyu,"DF,MF",1.kr FC Seoul,"Pohang-si, Korea Republic",1998-03-20
+Korea Republic,13,Son Jun-ho,"MF,DF",1.cn Shandong Lunen,"Yeongdeok-gun, Korea Republic",1992-05-12
+Korea Republic,18,Lee Kangin,"MF,FW",1.es Mallorca,Korea Republic,2001-02-19
+Korea Republic,20,Kwon Kyung-won,DF,1.jp Gamba Osaka,"Seoul, Korea Republic",1992-01-31
+Korea Republic,4,Kim Min-jae,DF,1.it Napoli,"Tongyeong, Korea Republic",1996-11-15
+Korea Republic,26,Song Minkyu,"FW,MF",1.kr Jeonbuk,"Nonsan, Korea Republic",1999-09-12
+Korea Republic,15,Kim Moonhwan,DF,1.kr Jeonbuk,"Hwaseong-si, Korea Republic",1995-08-01
+Korea Republic,17,Na Sang-ho,FW,1.kr FC Seoul,"Damyang, Korea Republic",1996-08-12
+Korea Republic,1,Kim Seung-gyu,GK,1.sa Al-Shabab,Korea Republic,1990-09-30
+Korea Republic,8,Paik Seung-ho,MF,1.kr Jeonbuk,"Seoul, Korea Republic",1997-03-17
+Korea Republic,23,Kim Tae-hwan,"DF,MF",1.kr Ulsan Hyundai,"Gwangju, Korea Republic",1989-07-24
+Korea Republic,16,Hwang Ui-jo,"FW,MF",1.gr Olympiacos,"Seongnam-si, Korea Republic",1992-08-28
+Korea Republic,25,Jeong Woo-yeong,MF,1.de Freiburg,Korea Republic,1999-09-20
+Korea Republic,5,Jung Woo-young,MF,1.qa Al Sadd SC,Korea Republic,1989-12-14
+Korea Republic,19,Kim Young-gwon,DF,1.kr Ulsan Hyundai,"Jeonju, Korea Republic",1990-02-27
+Korea Republic,24,Cho Yumin,FW,2.kr Daejeon Citizen FC,Korea Republic,1996-11-17
+Mexico,25,Roberto Alvarado,FW,1.mx Guadalajara,"Salamanca, Estado de Guanajuato, Mexico",1998-09-07
+Mexico,4,Edson Álvarez,MF,1.nl Ajax,"Tlalnepantla de Baz, Estado de México, Mexico",1997-10-24
+Mexico,26,Kevin Álvarez,DF,1.mx Pachuca,"Colima, Estado de Colima, Mexico",1999-01-15
+Mexico,21,Uriel Antuna,"FW,MF",1.mx Cruz Azul,"Gómez Palacio, Estado de Durango, Mexico",1997-08-21
+Mexico,2,Néstor Araujo,DF,1.mx América,"Guadalajara, Estado de Jalisco, Mexico",1991-08-29
+Mexico,6,Gerardo Arteaga,DF,1.be Genk,"Zapopan, Estado de Jalisco, Mexico",1998-09-07
+Mexico,24,Luis Chávez,MF,1.mx Pachuca,"Cihuatlán, Estado de Jalisco, Mexico",1996-01-15
+Mexico,12,Rodolfo Cota,GK,1.mx León,"Mazatlán, Estado de Sinaloa, Mexico",1987-07-03
+Mexico,19,Jorge Eduardo Sánchez,DF,1.nl Ajax,"Torreón, Estado de Coahuila de Zaragoza, Mexico",1997-12-10
+Mexico,11,Rogelio Funes Mori,FW,1.mx Monterrey,"Mendoza, Argentina",1991-03-05
+Mexico,23,Jesús Gallardo,DF,1.mx Monterrey,"Cárdenas, Estado de Tabasco, Mexico",1994-08-15
+Mexico,18,Andrés Guardado,MF,1.es Betis,"Guadalajara, Estado de Jalisco, Mexico",1986-09-28
+Mexico,14,Erick Gutiérrez,MF,1.nl PSV Eindhoven,"Los Mochis, Estado de Sinaloa, Mexico",1995-06-15
+Mexico,16,Héctor Herrera,MF,1.us Houston Dynamo,"Tijuana, Estado de Baja California, Mexico",1990-04-19
+Mexico,9,Raúl Jiménez,FW,1.eng Wolves,"Tepeji del Río de Ocampo, Estado de Hidalgo, Mexico",1991-05-05
+Mexico,22,Hirving Lozano,FW,1.it Napoli,"Mexico City, Ciudad de México, Mexico",1995-07-30
+Mexico,20,Henry Martín,FW,1.mx América,"Mérida, Estado de Yucatán, Mexico",1992-11-18
+Mexico,3,César Montes,DF,1.mx Monterrey,"Hermosillo, Estado de Sonora, Mexico",1997-02-24
+Mexico,15,Héctor Moreno,DF,1.mx Monterrey,"Culiacán, Estado de Sinaloa, Mexico",1988-01-17
+Mexico,13,Guillermo Ochoa,GK,1.mx América,"Guadalajara, Estado de Jalisco, Mexico",1985-07-13
+Mexico,17,Orbelín Pineda,MF,1.gr AEK Athens,"Coyuca de Catalán, Estado de Guerrero, Mexico",1996-03-24
+Mexico,8,Charly Rodríguez,MF,1.mx Cruz Azul,"San Nicolás de los Garza, Estado de Nuevo León, Mexico",1997-01-03
+Mexico,7,Luis Romo,"DF,MF",1.mx Monterrey,"Ahome, Estado de Sinaloa, Mexico",1995-06-05
+Mexico,1,Alfredo Talavera,GK,1.mx FC Juárez,"La Barca, Estado de Jalisco, Mexico",1982-09-18
+Mexico,5,Johan Vásquez,DF,1.it Cremonese,"Navojoa, Estado de Sonora, Mexico",1998-10-22
+Mexico,10,Alexis Vega,FW,1.mx Guadalajara,"Cuauhtémoc, Ciudad de México, Mexico",1997-11-25
+Morocco,14,Zakaria Aboukhlal,"MF,FW",1.fr Toulouse,"Rotterdam, Netherlands",2000-02-18
+Morocco,5,Nayef Aguerd,DF,1.eng West Ham,"Kenitra, Morocco",1996-03-30
+Morocco,15,Selim Amallah,MF,1.be Standard Liège,"Hautrage, Belgium",1996-11-15
+Morocco,4,Sofyan Amrabat,MF,1.it Fiorentina,"Gemeente Huizen, Netherlands",1996-08-21
+Morocco,25,Yahya Attiat Allah,DF,1.ma Wydad Casablanca,"Safi, Morocco",1995-03-02
+Morocco,24,Badr Banoun,DF,1.qa Qatar SC,"Casablanca, Morocco",1993-09-30
+Morocco,17,Sofiane Boufal,FW,1.fr Angers,"Paris, France",1993-09-17
+Morocco,1,Yassine Bounou,GK,1.es Sevilla,"Montréal, QC, Canada",1991-04-05
+Morocco,13,Ilias Chair,"FW,MF",2.eng QPR,"Brugge, Belgium",1997-10-30
+Morocco,21,Walid Cheddira,FW,2.it Bari,"Loreto, Italy",1998-01-22
+Morocco,20,Achraf Dari,DF,1.fr Brest,"Casablanca, Morocco",1999-05-06
+Morocco,19,Youssef En-Nesyri,FW,1.es Sevilla,"Fes-Medina, Morocco",1997-06-01
+Morocco,16,Abdessamad Ezzalzouli,FW,1.es Osasuna,"Beni Mellal, Morocco",2001-12-17
+Morocco,2,Achraf Hakimi,DF,1.fr Paris S-G,"Getafe, Spain",1998-11-04
+Morocco,9,Abderrazak Hamdallah,FW,1.sa Al-Ittihad,"Safi, Morocco",1990-12-17
+Morocco,26,Yahya Jabrane,MF,1.ma Wydad Casablanca,"Settat, Morocco",1991-06-18
+Morocco,23,Bilal El Khannous,MF,1.be Genk,"Strombeek-Bever, Belgium",2004-05-10
+Morocco,3,Noussair Mazraoui,DF,1.de Bayern Munich,"Leiderdorp, Netherlands",1997-11-14
+Morocco,12,Munir,GK,1.sa Al-Wehda,Spain,1989-05-10
+Morocco,8,Azzedine Ounahi,MF,1.fr Angers,"Casablanca, Morocco",2000-04-19
+Morocco,22,Ahmed Reda Tagnaouti,GK,1.ma Wydad Casablanca,"Casablanca, Morocco",1996-04-05
+Morocco,11,Abdelhamid Sabiri,MF,1.it Sampdoria,"Goulmima, Morocco",1996-11-28
+Morocco,6,Romain Saïss,DF,1.tr Beşiktaş,"Bourg-de-Péage, France",1990-03-26
+Morocco,18,Jawad El Yamiq,DF,1.es Valladolid,"Khouribga, Morocco",1992-02-29
+Morocco,10,Anass Zaroury,"FW,MF",2.eng Burnley,"Mechelen, Belgium",2000-11-07
+Morocco,7,Hakim Ziyech,FW,1.eng Chelsea,"Gemeente Dronten, Netherlands",1993-03-19
+Netherlands,5,Nathan Aké,DF,1.eng Manchester City,"The Hague, Netherlands",1995-02-18
+Netherlands,11,Steven Berghuis,MF,1.nl Ajax,"Apeldoorn, Netherlands",1991-12-19
+Netherlands,7,Steven Bergwijn,FW,1.nl Ajax,"Amsterdam, Netherlands",1997-10-08
+Netherlands,13,Justin Bijlow,GK,1.nl Feyenoord,"Rotterdam, Netherlands",1998-01-22
+Netherlands,17,Daley Blind,DF,1.nl Ajax,"Amsterdam, Netherlands",1990-03-09
+Netherlands,22,Denzel Dumfries,DF,1.it Inter,"Rotterdam, Netherlands",1996-04-18
+Netherlands,26,Jeremie Frimpong,"DF,MF",1.de Leverkusen,"Amsterdam, Netherlands",2000-12-10
+Netherlands,8,Cody Gakpo,"FW,MF",1.nl PSV Eindhoven,"Gemeente Eindhoven, Netherlands",1999-05-07
+Netherlands,18,Vincent Janssen,FW,1.be Antwerp,"Heesch, Netherlands",1994-06-15
+Netherlands,21,Frenkie de Jong,MF,1.es Barcelona,"Arkel, Netherlands",1997-05-12
+Netherlands,9,Luuk de Jong,FW,1.nl PSV Eindhoven,"Aigle, Switzerland",1990-08-27
+Netherlands,14,Davy Klaassen,"MF,FW",1.nl Ajax,"Gemeente Hilversum, Netherlands",1993-02-21
+Netherlands,20,Teun Koopmeiners,MF,1.it Atalanta,"Gemeente Castricum, Netherlands",1998-02-28
+Netherlands,12,Noa Lang,MF,1.be Club Brugge,"Capelle aan den IJssel, Netherlands",1999-06-17
+Netherlands,3,Matthijs de Ligt,DF,1.de Bayern Munich,"Leiderdorp, Netherlands",1999-08-12
+Netherlands,16,Tyrell Malacia,DF,1.eng Manchester Utd,"Rotterdam, Netherlands",1999-08-17
+Netherlands,10,Memphis,FW,1.es Barcelona,"Moordrecht, Netherlands",1994-02-13
+Netherlands,23,Andries Noppert,GK,1.nl Heerenveen,"Gemeente Heerenveen, Netherlands",1994-04-07
+Netherlands,1,Remko Pasveer,GK,1.nl Ajax,"Gemeente Enschede, Netherlands",1983-11-08
+Netherlands,15,Marten de Roon,MF,1.it Atalanta,"Zwijndrecht, Netherlands",1991-03-29
+Netherlands,25,Xavi Simons,"FW,MF",1.nl PSV Eindhoven,"Amsterdam, Netherlands",2003-04-21
+Netherlands,24,Kenneth Taylor,MF,1.nl Ajax,"Alkmaar, Netherlands",2002-05-16
+Netherlands,2,Jurriën Timber,DF,1.nl Ajax,"Utrecht, Netherlands",2001-06-17
+Netherlands,4,Virgil van Dijk,DF,1.eng Liverpool,"Breda, Netherlands",1991-07-08
+Netherlands,6,Stefan de Vrij,DF,1.it Inter,"Ouderkerk aan den IJssel, Netherlands",1992-02-05
+Netherlands,19,Wout Weghorst,FW,1.tr Beşiktaş,"Gemeente Borne, Netherlands",1992-08-07
+Poland,5,Jan Bednarek,DF,1.eng Aston Villa,"Słupca, Poland",1996-04-12
+Poland,18,Bartosz Bereszyński,DF,1.it Sampdoria,"Poznań, Poland",1992-07-12
+Poland,6,Krystian Bielik,MF,3.eng Derby County,"Konin, Poland",1998-01-04
+Poland,2,Matty Cash,DF,1.eng Aston Villa,"Slough, England, United Kingdom",1997-08-07
+Poland,24,Przemysław Frankowski,MF,1.fr Lens,"Gdańsk, Poland",1995-04-12
+Poland,15,Kamil Glik,DF,2.it Benevento,"Jastrzębie Zdrój, Poland",1988-02-03
+Poland,22,Kamil Grabara,GK,1.dk FC Copenhagen,"Ruda Śląska, Poland",1999-01-08
+Poland,11,Kamil Grosicki,MF,1.pl Pogoń Szczecin,"Szczecin, Poland",1988-06-08
+Poland,25,Robert Gumny,DF,1.de Augsburg,"Poznań, Poland",1998-06-04
+Poland,3,Artur Jędrzejczyk,DF,1.pl Legia Warsaw,"Dębica, Poland",1987-11-04
+Poland,13,Jakub Kamiński,MF,1.de Wolfsburg,"Ruda Śląska, Poland",2002-06-05
+Poland,14,Jakub Kiwior,DF,1.it Spezia,"Tychy, Poland",2000-02-15
+Poland,10,Grzegorz Krychowiak,MF,1.sa Al-Shabab,"Gryfice, Poland",1990-01-29
+Poland,9,Robert Lewandowski,FW,1.es Barcelona,"Warsaw, Poland",1988-08-21
+Poland,7,Arkadiusz Milik,"FW,MF",1.it Juventus,"Tychy, Poland",1994-02-28
+Poland,23,Krzysztof Piątek,FW,1.it Salernitana,"Dzierżoniów, Poland",1995-07-01
+Poland,26,Michał Skóraś,MF,1.pl Lech Poznań,"Jastrzębie Zdrój, Poland",2000-02-15
+Poland,12,Łukasz Skorupski,GK,1.it Bologna,"Zabrze, Poland",1991-05-05
+Poland,16,Karol Świderski,FW,1.us Charlotte,"Rawicz, Poland",1997-01-23
+Poland,1,Wojciech Szczęsny,GK,1.it Juventus,"Warsaw, Poland",1990-04-18
+Poland,8,Damian Szymański,MF,1.gr AEK Athens,"Kraśnik, Poland",1995-06-16
+Poland,19,Sebastian Szymański,MF,1.nl Feyenoord,"Biała Podlaska, Poland",1999-05-10
+Poland,4,Mateusz Wieteska,DF,1.fr Clermont Foot,"Warsaw, Poland",1997-02-11
+Poland,21,Nicola Zalewski,MF,1.it Roma,"Tivoli, Italy",2002-01-23
+Poland,20,Piotr Zieliński,"MF,FW",1.it Napoli,"Ząbkowice Śląskie, Poland",1994-05-20
+Poland,17,Szymon Żurkowski,MF,1.it Fiorentina,"Tychy, Poland",1997-09-25
+Portugal,20,João Cancelo,DF,1.eng Manchester City,"Barreiro, Portugal",1994-05-27
+Portugal,14,William Carvalho,MF,1.es Betis,"Luanda, Angola",1992-04-07
+Portugal,22,Diogo Costa,GK,1.pt Porto,"Rothrist, Switzerland",1999-09-19
+Portugal,2,Diogo Dalot,DF,1.eng Manchester Utd,"Braga, Portugal",1999-03-18
+Portugal,4,Rúben Dias,DF,1.eng Manchester City,"Amadora, Portugal",1997-05-14
+Portugal,11,João Félix,FW,1.es Atlético Madrid,"Viseu, Portugal",1999-11-10
+Portugal,8,Bruno Fernandes,"FW,MF",1.eng Manchester Utd,"Maia, Portugal",1994-09-08
+Portugal,5,Raphaël Guerreiro,DF,1.de Dortmund,"Le Blanc-Mesnil, France",1993-12-22
+Portugal,21,Ricardo Horta,FW,1.pt Braga,"Sobreda, Portugal",1994-09-15
+Portugal,15,Rafael Leão,FW,1.it Milan,"Almada, Portugal",1999-06-10
+Portugal,17,João Mário,"FW,MF",1.pt Benfica,"Porto, Portugal",1993-01-19
+Portugal,,Nuno Mendes,DF,1.fr Paris S-G,"Sintra, Portugal",2002-06-19
+Portugal,18,Rúben Neves,MF,1.eng Wolves,"Mozelos, Portugal",1997-03-13
+Portugal,23,Matheus Nunes,MF,1.eng Wolves,"Rio de Janeiro, Brazil",1998-08-27
+Portugal,25,Otávio,MF,1.pt Porto,"João Pessoa, Brazil",1995-02-09
+Portugal,6,João Palhinha,MF,1.eng Fulham,"Lisbon, Portugal",1995-07-09
+Portugal,1,Rui Patrício,GK,1.it Roma,"Marrazes, Portugal",1988-02-15
+Portugal,3,Pepe,DF,1.pt Porto,"Maceió, Brazil",1983-02-26
+Portugal,13,Danilo Pereira,DF,1.fr Paris S-G,"Bissau, Guinea-Bissau",1991-09-09
+Portugal,26,Gonçalo Ramos,"FW,MF",1.pt Benfica,"Olhão, Portugal",2001-06-20
+Portugal,7,Cristiano Ronaldo,FW,1.eng Manchester Utd,"Funchal, Portugal",1985-02-05
+Portugal,12,José Sá,GK,1.eng Wolves,"Braga, Portugal",1993-01-17
+Portugal,9,André Silva,FW,1.de RB Leipzig,"Baguim do Monte, Portugal",1995-11-06
+Portugal,24,António Silva,DF,1.pt Benfica,"Portugal, Portugal",2003-10-30
+Portugal,10,Bernardo Silva,MF,1.eng Manchester City,"Lisbon, Portugal",1994-08-10
+Portugal,16,Vitinha,MF,1.fr Paris S-G,"Portugal, Portugal",2000-02-13
+Qatar,11,Akram Afif,FW,1.qa Al Sadd SC,"Doha, Qatar",1996-11-18
+Qatar,14,Homam Ahmed,DF,1.qa Al-Gharafa Sports Club,"Doha, Qatar",1999-08-25
+Qatar,7,Ahmed Alaaeldin,FW,1.qa Al-Gharafa Sports Club,"Ismailia, Egypt",1993-01-31
+Qatar,19,Almoez Ali,FW,1.qa Al Duhail SC,"Khartoum, Sudan",1996-08-19
+Qatar,8,Ali Assadalla,MF,1.qa Al Sadd SC,"Manama, Bahrain",1993-01-19
+Qatar,22,Meshaal Barsham,GK,1.qa Al Sadd SC,"Doha, Qatar",1998-02-14
+Qatar,12,Karim Boudiaf,MF,1.qa Al Duhail SC,"Rouen, France",1990-09-16
+Qatar,25,Jassem Gaber,DF,1.qa Al-Arabi SC,"Doha, Qatar",2002-02-20
+Qatar,24,Naif Al-Hadhrami,MF,1.qa Al Rayyan SC,"Ar Rayyān, Qatar",2001-07-18
+Qatar,20,Salem Al-Hajri,MF,1.qa Al Sadd SC,"Doha, Qatar",1996-04-10
+Qatar,3,Abdelkarim Hassan,DF,1.qa Al Sadd SC,"Doha, Qatar",1993-08-28
+Qatar,21,Yousef Hassan,GK,1.qa Al-Gharafa Sports Club,"Doha, Qatar",1996-05-24
+Qatar,6,Abdulaziz Hatem,MF,1.qa Al Rayyan SC,"Doha, Qatar",1990-10-28
+Qatar,10,Hassan Al-Haydos,MF,1.qa Al Sadd SC,"Doha, Qatar",1990-12-11
+Qatar,13,Musab Kheder,DF,1.qa Al Sadd SC,"Khartoum, Sudan",1993-09-26
+Qatar,16,Boualem Khoukhi,DF,1.qa Al Sadd SC,"Bou Ismaïl, Algeria",1990-07-09
+Qatar,23,Assim Madibo,MF,1.qa Al Duhail SC,"Doha, Qatar",1996-10-22
+Qatar,26,Mostafa Meshaal,MF,1.qa Al Sadd SC,"Doha, Qatar",2001-03-28
+Qatar,17,Ismail Mohamad,FW,1.qa Al Duhail SC,"Doha, Qatar",1990-04-05
+Qatar,18,Khalid Muneer,FW,1.qa Al-Wakrah Sport Club,"Doha, Qatar",1998-02-24
+Qatar,9,Mohammed Muntari,"FW,MF",1.qa Al Duhail SC,"Kumasi, Ghana",1993-12-20
+Qatar,15,Bassam Al-Rawi,DF,1.qa Al Duhail SC,"Baghdad, Iraq",1997-12-16
+Qatar,2,Ró-Ró,DF,1.qa Al Sadd SC,"Algueirão-Mem Martins, Portugal",1990-08-06
+Qatar,5,Tarek Salman,DF,1.qa Al Sadd SC,"Al Wakrah, Qatar",1997-12-05
+Qatar,1,Saad Al Sheeb,GK,1.qa Al Sadd SC,"Doha, Qatar",1990-02-19
+Qatar,4,Mohammed Waad,"MF,DF",1.qa Al Sadd SC,"Baghdad, Iraq",1999-09-18
+Saudi Arabia,12,Saud Abdulhamid,"DF,MF",1.sa Al-Hilal,"Jiddah, Saudi Arabia",1999-07-18
+Saudi Arabia,18,Nawaf Al Abed,MF,1.sa Al-Shabab,"Riyadh, Saudi Arabia",1990-01-26
+Saudi Arabia,20,Abdulrahman Al-Aboud,"MF,DF",1.sa Al-Ittihad,"Dammam, Saudi Arabia",1995-06-01
+Saudi Arabia,4,Abdulelah Al-Amri,DF,1.sa Al-Nassr,"Ta’if, Saudi Arabia",1997-01-15
+Saudi Arabia,22,Nawaf Al Aqidi,GK,1.sa Al-Nassr,"Riyadh, Saudi Arabia",2000-05-10
+Saudi Arabia,19,Hattan Bahebri,MF,1.sa Al-Shabab,"Jeddah, Saudi Arabia",1992-07-16
+Saudi Arabia,6,Mohammed Al-Breik,DF,1.sa Al-Hilal,"Mecca, Saudi Arabia",1992-09-15
+Saudi Arabia,5,Ali Al-Bulaihi,DF,1.sa Al-Hilal,"Najrān, Saudi Arabia",1989-11-21
+Saudi Arabia,9,Firas Al-Buraikan,"MF,FW",1.sa Al-Fateh,"Riyadh, Saudi Arabia",2000-05-14
+Saudi Arabia,24,Nasser Al-Dawsari,FW,1.sa Al-Hilal,"Riyadh, Saudi Arabia",1998-12-19
+Saudi Arabia,10,Salem Al-Dawsari,MF,1.sa Al-Hilal,"Riyadh, Saudi Arabia",1991-08-19
+Saudi Arabia,7,Salman Al-Faraj,MF,1.sa Al-Hilal,"Medina, Saudi Arabia",1989-08-01
+Saudi Arabia,2,Sultan Al-Ghanam,"DF,MF",1.sa Al-Nassr,"Dayr ash Shi‘bah, Yemen",1994-05-06
+Saudi Arabia,25,Asiri Haitham,FW,2.sa Al-Ahli,"Muḩāyil, Saudi Arabia",2001-03-25
+Saudi Arabia,15,Ali Al Hassan,MF,1.sa Al-Nassr,"Al Hufūf, Saudi Arabia",1997-03-04
+Saudi Arabia,23,Mohamed Kanno,"MF,FW",1.sa Al-Hilal,"Khobar, Saudi Arabia",1994-09-22
+Saudi Arabia,3,Abdullah Madu,"DF,MF",1.sa Al-Nassr,"Mecca, Saudi Arabia",1993-07-15
+Saudi Arabia,8,Abdulellah Al-Malki,MF,1.sa Al-Hilal,"Mecca, Saudi Arabia",1994-10-11
+Saudi Arabia,16,Sami Al-Najei,MF,1.sa Al-Nassr,"Jizan, Saudi Arabia",1997-02-07
+Saudi Arabia,14,Abdullah Otayf,MF,1.sa Al-Hilal,"Riyadh, Saudi Arabia",1992-08-03
+Saudi Arabia,21,Mohammed Al-Owais,GK,1.sa Al-Hilal,"Al Hufūf, Saudi Arabia",1991-10-10
+Saudi Arabia,13,Yasser Al-Shahrani,DF,1.sa Al-Hilal,"Riyadh, Saudi Arabia",1992-05-25
+Saudi Arabia,,Riyadh Sharahili,MF,1.sa Abha,"Riyadh, Saudi Arabia",1993-04-28
+Saudi Arabia,11,Saleh Al-Shehri,FW,1.sa Al-Hilal,"Jeddah, Saudi Arabia",1993-11-01
+Saudi Arabia,17,Hassan Al Tambakti,DF,1.sa Al-Shabab,"Riyadh, Saudi Arabia",1999-02-09
+Saudi Arabia,1,Mohammed Al Yami,GK,2.sa Al-Ahli,"Najrān, Saudi Arabia",1997-08-14
+Senegal,4,Pape Abou Cissé,DF,1.gr Olympiacos,"Pikine, Senegal",1995-09-14
+Senegal,12,Fodé Ballo-Touré,DF,1.it Milan,"Conflans-Sainte-Honorine, France",1997-01-03
+Senegal,11,Pathé Ciss,MF,1.es Rayo Vallecano,"Dakar, Senegal",1994-03-16
+Senegal,9,Boulaye Dia,FW,1.it Salernitana,"Oyonnax, France",1996-11-16
+Senegal,22,Abdou Diallo,DF,1.de RB Leipzig,"Tours, France",1996-05-04
+Senegal,15,Krépin Diatta,"FW,MF",1.fr Monaco,"Dakar, Senegal",1999-02-25
+Senegal,19,Famara Diedhiou,FW,1.tr Alanyaspor,"Saint-Louis, Senegal",1992-12-15
+Senegal,20,Bamba Dieng,FW,1.fr Marseille,"Pikine, Senegal",2000-03-23
+Senegal,1,Seny Dieng,GK,2.eng QPR,"Zürich, Switzerland",1994-11-23
+Senegal,5,Idrissa Gana Gueye,MF,1.eng Everton,"Dakar, Senegal",1989-09-26
+Senegal,23,Alfred Gomis,GK,1.fr Rennes,"Ziguinchor, Senegal",1993-09-05
+Senegal,26,Pape Gueye,MF,1.fr Marseille,"Montreuil, France",1999-01-24
+Senegal,7,Nicolas Jackson,FW,1.es Villarreal,"Banjul, Gambia",2001-06-20
+Senegal,14,Ismail Jakobs,DF,1.fr Monaco,"Köln, Germany",1999-08-17
+Senegal,3,Kalidou Koulibaly,DF,1.eng Chelsea,"Saint-Dié-des-Vosges, France",1991-06-20
+Senegal,8,Cheikhou Kouyaté,MF,1.eng Nott'ham Forest,"Dakar, Senegal",1989-12-21
+Senegal,25,Mamadou Loum,MF,2.eng Reading,"Dakar, Senegal",1996-12-30
+Senegal,17,Pape Matar Sarr,MF,1.eng Tottenham,"Thiaroye, Senegal",2002-09-14
+Senegal,16,Edouard Mendy,GK,1.eng Chelsea,"Montivilliers, France",1992-03-01
+Senegal,2,Formose Mendy,DF,2.fr Amiens,"Dakar, Senegal",2001-01-02
+Senegal,6,Nampalys Mendy,MF,1.eng Leicester City,"La Seyne-sur-Mer, France",1992-06-23
+Senegal,10,Moussa N'Diaye,DF,1.be Anderlecht,"Dakar, Senegal",2002-06-18
+Senegal,24,Moustapha Name,MF,1.cy Pafos FC,"Dakar, Senegal",1995-05-05
+Senegal,13,Iliman Ndiaye,"FW,MF",2.eng Sheffield Utd,"Rouen, France",2000-03-06
+Senegal,21,Youssouf Sabaly,DF,1.es Betis,"Le Chesnay, France",1993-03-05
+Senegal,18,Ismaila Sarr,"FW,MF",2.eng Watford,"Saint-Louis, Senegal",1998-02-25
+Serbia,15,Srđan Babić,DF,1.es Almería,"Banja Luka, Bosnia and Herzegovina",1996-04-22
+Serbia,1,Marko Dmitrović,GK,1.es Sevilla,"Subotica, Serbia",1992-01-24
+Serbia,3,Strahinja Eraković,DF,1.rs Red Star,"Batajnica, Serbia",2001-01-22
+Serbia,26,Marko Grujić,MF,1.pt Porto,"Belgrade, Serbia",1996-04-13
+Serbia,8,Nemanja Gudelj,"MF,DF",1.es Sevilla,"Belgrade, Serbia",1991-11-16
+Serbia,24,Ivan Ilić,MF,1.it Hellas Verona,"Niš, Serbia",2001-03-17
+Serbia,11,Luka Jović,FW,1.it Fiorentina,"Bijeljina, Bosnia and Herzegovina",1997-12-23
+Serbia,17,Filip Kostić,DF,1.it Juventus,"Kragujevac, Serbia",1992-11-01
+Serbia,22,Darko Lazović,DF,1.it Hellas Verona,"Čačak, Serbia",1990-09-15
+Serbia,16,Saša Lukić,MF,1.it Torino,"Šabac, Serbia",1996-08-13
+Serbia,6,Nemanja Maksimović,MF,1.es Getafe,"Belgrade, Serbia",1995-01-26
+Serbia,4,Nikola Milenković,DF,1.it Fiorentina,"Belgrade, Serbia",1997-10-12
+Serbia,20,Sergej Milinković-Savić,MF,1.it Lazio,"Lleida, Spain",1995-02-27
+Serbia,23,Vanja Milinković-Savić,GK,1.it Torino,"Ourense, Spain",1997-02-20
+Serbia,9,Aleksandar Mitrović,FW,1.eng Fulham,"Smederevo, Serbia",1994-09-16
+Serbia,13,Stefan Mitrović,DF,1.es Getafe,"Belgrade, Serbia",1990-05-22
+Serbia,25,Filip Mladenović,DF,1.pl Legia Warsaw,"Čačak, Serbia",1991-08-15
+Serbia,2,Strahinja Pavlović,DF,1.at RB Salzburg,"Šabac, Serbia",2001-05-24
+Serbia,19,Uroš Račić,MF,1.pt Braga,"Kraljevo, Serbia",1998-03-17
+Serbia,7,Nemanja Radonjić,"DF,FW",1.it Torino,"Niš, Serbia",1996-02-15
+Serbia,12,Predrag Rajković,GK,1.es Mallorca,"Negotin, Serbia",1995-10-31
+Serbia,10,Dušan Tadić,"MF,FW",1.nl Ajax,"Bačka Topola, Serbia",1988-11-20
+Serbia,5,Miloš Veljković,DF,1.de Werder Bremen,"Belgrade, Serbia",1995-09-26
+Serbia,18,Dušan Vlahović,FW,1.it Juventus,"Belgrade, Serbia",2000-01-28
+Serbia,14,Andrija Živković,DF,1.gr PAOK,"Niš, Serbia",1996-07-11
+Serbia,21,Filip Đuričić,"MF,FW",1.it Sampdoria,"Obrenovac, Serbia",1992-01-30
+Spain,18,Jordi Alba,DF,1.es Barcelona,"Marmolejo, Spain",1989-03-21
+Spain,10,Marco Asensio,FW,1.es Real Madrid,"Palma de Mallorca, Spain",1996-01-21
+Spain,2,César Azpilicueta,DF,1.eng Chelsea,"Pamplona, Spain",1989-08-28
+Spain,14,Alejandro Balde,DF,1.es Barcelona,"Barcelona, Spain",2003-10-18
+Spain,5,Sergio Busquets,MF,1.es Barcelona,"Sabadell, Spain",1988-07-16
+Spain,20,Dani Carvajal,DF,1.es Real Madrid,"Leganés, Spain",1992-01-11
+Spain,25,Ansu Fati,FW,1.es Barcelona,"Bissau, Guinea-Bissau",2002-10-31
+Spain,3,Eric García,DF,1.es Barcelona,"Barcelona, Spain",2001-01-09
+Spain,9,Gavi,MF,1.es Barcelona,"Los Palacios y Villafranca, Spain",2004-08-05
+Spain,15,Hugo Guillamón,"DF,MF",1.es Valencia,"San Sebastián, Spain",2000-01-31
+Spain,8,Koke,MF,1.es Atlético Madrid,"Madrid, Spain",1992-01-08
+Spain,24,Aymeric Laporte,DF,1.eng Manchester City,"Agen, France",1994-05-27
+Spain,6,Marcos Llorente,DF,1.es Atlético Madrid,"Madrid, Spain",1995-01-30
+Spain,7,Álvaro Morata,FW,1.es Atlético Madrid,"Madrid, Spain",1992-10-23
+Spain,21,Dani Olmo,FW,1.de RB Leipzig,"Terrassa, Spain",1998-05-07
+Spain,26,Pedri,MF,1.es Barcelona,"Bajamar, Spain",2002-11-25
+Spain,17,Yeremi Pino,"FW,MF",1.es Villarreal,"Las Palmas de Gran Canaria, Spain",2002-10-20
+Spain,13,David Raya,"FW,GK",1.eng Brentford,"Barcelona, Spain",1995-09-15
+Spain,16,Rodri,DF,1.eng Manchester City,"Madrid, Spain",1996-06-22
+Spain,1,Robert Sánchez,GK,1.eng Brighton,"Cartagena, Spain",1997-11-18
+Spain,22,Pablo Sarabia,FW,1.fr Paris S-G,"Madrid, Spain",1992-05-11
+Spain,23,Unai Simón,GK,1.es Athletic Club,"Gasteiz / Vitoria, Spain",1997-06-11
+Spain,19,Carlos Soler,MF,1.fr Paris S-G,"Valencia, Spain",1997-01-02
+Spain,11,Ferrán Torres,FW,1.es Barcelona,"Foios, Spain",2000-02-29
+Spain,4,Pau Torres,DF,1.es Villarreal,"Villarreal, Spain",1997-01-16
+Spain,12,Nico Williams,FW,1.es Athletic Club,"Pamplona, Spain",2002-07-12
+Switzerland,14,Michel Aebischer,"MF,FW",1.it Bologna,"Genève, Switzerland",1997-01-06
+Switzerland,5,Manuel Akanji,DF,1.eng Manchester City,"Wiesendangen / Wiesendangen (Dorf), Switzerland",1995-07-19
+Switzerland,18,Eray Cömert,DF,1.es Valencia,"Basel, Switzerland",1998-02-04
+Switzerland,4,Nico Elvedi,DF,1.de M'Gladbach,"Zürich, Switzerland",1996-09-30
+Switzerland,7,Breel Embolo,FW,1.fr Monaco,"Yaoundé, Cameroon",1997-02-14
+Switzerland,16,Christian Fassnacht,FW,1.ch Young Boys,"Zürich, Switzerland",1993-11-11
+Switzerland,2,Edimilson Fernandes,"FW,DF",1.de Mainz 05,"Sitten, Switzerland",1996-04-15
+Switzerland,20,Fabian Frei,MF,1.ch Basel,"Frauenfeld, Switzerland",1989-01-08
+Switzerland,8,Remo Freuler,MF,1.eng Nott'ham Forest,"Ennenda, Switzerland",1992-04-15
+Switzerland,26,Ardon Jasari,FW,1.ch Luzern,"Cham, Switzerland",2002-07-30
+Switzerland,21,Gregor Kobel,GK,1.de Dortmund,"Zürich, Switzerland",1997-12-06
+Switzerland,24,Philipp Köhn,GK,1.at RB Salzburg,"Dinslaken, Germany",1998-04-02
+Switzerland,19,Noah Okafor,"FW,MF",1.at RB Salzburg,"Binningen, Switzerland",2000-05-24
+Switzerland,12,Jonas Omlin,GK,1.fr Montpellier,"Sarnen, Switzerland",1994-01-10
+Switzerland,25,Fabian Rieder,FW,1.ch Young Boys,"Koppigen, Switzerland",2002-02-16
+Switzerland,13,Ricardo Rodríguez,DF,1.it Torino,"Zürich, Switzerland",1992-08-25
+Switzerland,22,Fabian Schär,DF,1.eng Newcastle Utd,"Wil, Switzerland",1991-12-20
+Switzerland,9,Haris Seferović,FW,1.tr Galatasaray,"Sursee, Switzerland",1992-02-22
+Switzerland,23,Xherdan Shaqiri,"FW,MF",1.us Chicago Fire,"Komuna e Gjilanit, Kosovo",1991-10-10
+Switzerland,1,Yann Sommer,GK,1.de M'Gladbach,"Morges, Switzerland",1988-12-17
+Switzerland,15,Djibril Sow,MF,1.de Eint Frankfurt,"Zürich, Switzerland",1997-02-06
+Switzerland,,Renato Steffen,FW,1.ch Lugano,"Aarau, Switzerland",1991-11-03
+Switzerland,17,Ruben Vargas,FW,1.de Augsburg,"Adligenswil, Switzerland",1998-08-05
+Switzerland,3,Silvan Widmer,DF,1.de Mainz 05,"Aarau, Switzerland",1993-03-05
+Switzerland,10,Granit Xhaka,MF,1.eng Arsenal,"Basel, Switzerland",1992-09-27
+Switzerland,6,Denis Zakaria,MF,1.eng Chelsea,"Kinshasa, Congo DR",1996-11-20
+Tunisia,24,Ali Abdi,DF,2.fr Caen,"Sfax, Tunisia",1993-12-20
+Tunisia,22,Bechir Ben Saïd,GK,1.tn US Monastir,"Gabès, Tunisia",1992-11-29
+Tunisia,25,Anis Ben Slimane,MF,1.dk Brøndby,"Copenhagen, Denmark",2001-03-16
+Tunisia,6,Dylan Bronn,DF,1.it Salernitana,"Cannes, France",1995-06-19
+Tunisia,18,Ghaylène Chaalali,MF,1.tn Espérance de Tunis,"Manouba, Tunisia",1994-02-28
+Tunisia,16,Aimen Dahmen,GK,1.tn CS Sfaxien,"Sfax, Tunisia",1997-01-28
+Tunisia,20,Mohamed Dräger,DF,1.ch Luzern,"Freiburg, Germany",1996-06-25
+Tunisia,5,Nader Ghandri,DF,1.tn Club Africain,"Aubervilliers, France",1995-02-18
+Tunisia,26,Mouez Hassen,GK,1.tn Club Africain,"Fréjus, France",1995-03-05
+Tunisia,2,Bilel Ifa,DF,1.kw Kuwait SC,"Ariana, Tunisia",1990-03-09
+Tunisia,19,Seifeddine Jaziri,FW,1.eg Zamalek SC,"Délégation de la Médina, Tunisia",1993-02-12
+Tunisia,9,Issam Jebali,FW,1.dk Odense,"Medjez el Bab, Tunisia",1991-12-25
+Tunisia,21,Wajdi Kechrida,DF,1.gr Atromitos,"Nice, France",1995-11-05
+Tunisia,10,Wahbi Khazri,"FW,MF",1.fr Montpellier,"Ajaccio, France",1991-02-08
+Tunisia,14,Aïssa Laïdouni,MF,1.hu Ferencváros,"Montfermeil, France",1996-12-13
+Tunisia,12,Ali Maâloul,DF,1.eg Al Ahly SC,"Sfax, Tunisia",1990-01-01
+Tunisia,1,Aymen Mathlouthi,GK,1.tn Étoile du Sahel,"Tunis, Tunisia",1984-09-14
+Tunisia,8,Hannibal Mejbri,MF,2.eng Birmingham City,"Ivry-sur-Seine, France",2003-01-21
+Tunisia,4,Yassine Meriah,DF,1.tn Espérance de Tunis,"Tunis, Tunisia",1993-07-02
+Tunisia,7,Youssef Msakni,"MF,FW",1.qa Al-Arabi SC,"Tunis, Tunisia",1990-10-28
+Tunisia,15,Mohamed Ali Ben Romdhane,MF,1.tn Espérance de Tunis,"Tunis, Tunisia",1999-09-06
+Tunisia,13,Ferjani Sassi,"MF,DF",1.qa Al Duhail SC,"Ariana, Tunisia",1992-03-18
+Tunisia,17,Ellyes Skhiri,MF,1.de Köln,"Lunel, France",1995-05-10
+Tunisia,23,Naïm Sliti,"MF,FW",1.sa Al-Ettifaq,"Marseille, France",1992-07-27
+Tunisia,3,Montassar Talbi,DF,1.fr Lorient,"Paris, France",1998-05-26
+Tunisia,11,Taha Yassine Khenissi,FW,1.kw Kuwait SC,"Zarzis, Tunisia",1992-01-06
+United States,11,Brenden Aaronson,MF,1.eng Leeds United,"Medford, NJ, United States",2000-10-22
+United States,23,Kellyn Acosta,MF,1.us Los Angeles FC,"Plano, TX, United States",1995-07-24
+United States,4,Tyler Adams,MF,1.eng Leeds United,"Wappingers Falls, NY, United States",1999-02-14
+United States,20,Cameron Carter-Vickers,DF,1.sct Celtic,"Southend-on-Sea, England, United Kingdom",1997-12-31
+United States,2,Sergiño Dest,DF,1.it Milan,"Almere Stad, Netherlands",2000-11-03
+United States,9,Jesús Ferreira,FW,1.us FC Dallas,"Santa Marta, Colombia",2000-12-24
+United States,12,Ethan Horvath,GK,2.eng Luton Town,"Highlands Ranch, CO, United States",1995-06-09
+United States,25,Sean Johnson,GK,1.us NYCFC,"Lilburn, GA, United States",1989-05-31
+United States,14,Luca de la Torre,MF,1.es Celta Vigo,"San Diego, CA, United States",1998-05-23
+United States,15,Aaron Long,DF,1.us NY Red Bulls,"Oak Hills, CA, United States",1992-10-12
+United States,8,Weston McKennie,MF,1.it Juventus,"Little Elm, TX, United States",1998-08-28
+United States,18,Shaquell Moore,DF,1.us Nashville,"Powder Springs, GA, United States",1996-11-02
+United States,16,Jordan Morris,"FW,DF",1.us Seattle,"Seattle, WA, United States",1994-10-26
+United States,6,Yunus Musah,MF,1.es Valencia,"The Bronx, NY, United States",2002-11-29
+United States,10,Christian Pulisic,"FW,MF",1.eng Chelsea,"Easton, PA, United States",1998-09-18
+United States,13,Tim Ream,DF,1.eng Fulham,"St. Louis, MO, United States",1987-10-05
+United States,7,Gio Reyna,FW,1.de Dortmund,"Durham, England, United Kingdom",2002-11-13
+United States,5,Antonee Robinson,DF,1.eng Fulham,"Milton Keynes, England, United Kingdom",1997-08-08
+United States,17,Cristian Roldan,"FW,MF",1.us Seattle,"Pico Rivera, CA, United States",1995-06-03
+United States,24,Josh Sargent,FW,2.eng Norwich City,"O'Fallon, MO, United States",2000-02-20
+United States,26,Joe Scally,DF,1.de M'Gladbach,"Lake Grove, NY, United States",2002-12-31
+United States,1,Matt Turner,GK,1.eng Arsenal,"Park Ridge, NJ, United States",1994-06-24
+United States,21,Timothy Weah,FW,1.fr Lille,"Brooklyn, NY, United States",2000-02-22
+United States,19,Haji Wright,FW,1.tr Antalyaspor,"Los Angeles, CA, United States",1998-03-27
+United States,22,DeAndre Yedlin,DF,1.us Inter Miami,"Seattle, WA, United States",1993-07-09
+United States,3,Walker Zimmerman,DF,1.us Nashville,"Lawrenceville, GA, United States",1993-05-19
+Uruguay,,Ronald Araújo,DF,1.es Barcelona,"Rivera, Uruguay",1999-03-07
+Uruguay,26,José Luis Rodríguez Bebanz,DF,1.uy Nacional,"Canelones, Uruguay",1997-03-14
+Uruguay,6,Rodrigo Bentancur,MF,1.eng Tottenham,"Colonia del Sacramento, Uruguay",1997-06-25
+Uruguay,22,Martín Cáceres,DF,1.us LA Galaxy,"Montevideo, Uruguay",1987-04-07
+Uruguay,24,Agustín Canobbio,MF,1.br Atl Paranaense,"Montevideo, Uruguay",1998-10-01
+Uruguay,21,Edinson Cavani,FW,1.es Valencia,"Salto, Uruguay",1987-02-14
+Uruguay,19,Sebastián Coates,DF,1.pt Sporting CP,"Montevideo, Uruguay",1990-10-07
+Uruguay,10,Giorgian De Arrascaeta,MF,1.br Flamengo,"Nuevo Berlín, Uruguay",1994-06-01
+Uruguay,7,Nicolás De La Cruz,MF,1.ar River Plate,"Montevideo, Uruguay",1997-06-01
+Uruguay,3,Diego Godín,DF,1.ar Vélez Sarsf,"Rosario, Uruguay",1986-02-16
+Uruguay,18,Maxi Gómez,FW,1.tr Trabzonspor,"Paysandú, Uruguay",1996-08-14
+Uruguay,2,José María Giménez,DF,1.es Atlético Madrid,"Toledo, Uruguay",1995-01-20
+Uruguay,1,Fernando Muslera,GK,1.tr Galatasaray,"Buenos Aires, Argentina",1986-06-16
+Uruguay,11,Darwin Núñez,FW,1.eng Liverpool,"Artigas, Uruguay",1999-06-24
+Uruguay,16,Mathías Olivera,DF,1.it Napoli,"Montevideo, Uruguay",1997-10-31
+Uruguay,8,Facundo Pellistri,"MF,FW",1.eng Manchester Utd,"Uruguay, Uruguay",2001-12-20
+Uruguay,23,Sergio Rochet,GK,1.uy Nacional,"Nueva Palmira, Uruguay",1993-03-23
+Uruguay,12,Sebastián Sosa,GK,1.ar Independiente,"Montevideo, Uruguay",1986-08-19
+Uruguay,9,Luis Suárez,FW,1.uy Nacional,"Salto, Uruguay",1987-01-24
+Uruguay,14,Lucas Torreira,MF,1.tr Galatasaray,"Fray Bentos, Uruguay",1996-02-11
+Uruguay,20,Facundo Torres,"FW,MF",1.us Orlando City,"Montevideo, Uruguay",2000-04-13
+Uruguay,25,Manuel Ugarte Ribeiro,MF,1.pt Sporting CP,"Montevideo, Uruguay",2001-04-11
+Uruguay,15,Federico Valverde,MF,1.es Real Madrid,"Montevideo, Uruguay",1998-07-22
+Uruguay,13,Guillermo Varela,DF,1.br Flamengo,"Montevideo, Uruguay",1993-03-24
+Uruguay,5,Matías Vecino,MF,1.it Lazio,"Canelones, Uruguay",1991-08-24
+Uruguay,17,Matías Viña,DF,1.it Roma,"Empalme Olmos, Uruguay",1997-11-09
+Wales,7,Joe Allen,MF,2.eng Swansea City,"Carmarthen, Wales, United Kingdom",1990-03-14
+Wales,15,Ethan Ampadu,"MF,DF",1.it Spezia,"Exeter, England, United Kingdom",2000-09-14
+Wales,11,Gareth Bale,FW,1.us Los Angeles FC,"Cardiff, Wales, United Kingdom",1989-07-16
+Wales,24,Ben Cabango,DF,2.eng Swansea City,"Cardiff, Wales, United Kingdom",2000-05-30
+Wales,25,Rubin Colwill,MF,2.eng Cardiff City,"Neath, Wales, United Kingdom",2002-04-27
+Wales,21,Adam Davies,GK,2.eng Sheffield Utd,"Rinteln, Germany",1992-07-17
+Wales,4,Ben Davies,DF,1.eng Tottenham,"Neath, Wales, United Kingdom",1993-04-24
+Wales,2,Chris Gunter,"DF,MF",4.eng AFC Wimbledon,"Newport, Wales, United Kingdom",1989-07-21
+Wales,19,Mark Harris,FW,2.eng Cardiff City,"Swansea, Wales, United Kingdom",1998-12-29
+Wales,1,Wayne Hennessey,GK,1.eng Nott'ham Forest,"Bangor, Wales, United Kingdom",1987-01-24
+Wales,20,Daniel James,"FW,MF",1.eng Fulham,"Swansea, Wales, United Kingdom",1997-11-10
+Wales,9,Brennan Johnson,"FW,MF",1.eng Nott'ham Forest,"Nottingham, England, United Kingdom",2001-05-23
+Wales,23,Dylan Levitt,MF,1.sct Dundee United,"Bodelwyddan, Wales, United Kingdom",2000-11-17
+Wales,17,Tom Lockyer,"DF,MF",2.eng Luton Town,"Cardiff, Wales, United Kingdom",1994-12-03
+Wales,5,Chris Mepham,DF,1.eng Bournemouth,"Hammersmith, England, United Kingdom",1997-11-05
+Wales,13,Kieffer Moore,FW,1.eng Bournemouth,"Torquay, England, United Kingdom",1992-08-08
+Wales,16,Joe Morrell,MF,3.eng Portsmouth,"Ipswich, England, United Kingdom",1997-01-03
+Wales,10,Aaron Ramsey,MF,1.fr Nice,"Caerphilly, Wales, United Kingdom",1990-12-26
+Wales,14,Connor Roberts,DF,2.eng Burnley,"Neath, Wales, United Kingdom",1995-09-23
+Wales,6,Joe Rodon,DF,1.fr Rennes,"Swansea, Wales, United Kingdom",1997-10-22
+Wales,26,Matthew Smith,MF,3.eng MK Dons,"Redditch, England, United Kingdom",1999-11-22
+Wales,22,Sorba Thomas,MF,2.eng Huddersfield,"Newham, England, United Kingdom",1999-08-22
+Wales,12,Danny Ward,GK,1.eng Leicester City,"Wrexham, Wales, United Kingdom",1993-06-22
+Wales,18,Jonny Williams,"FW,MF",4.eng Swindon Town,"Pembury, England, United Kingdom",1993-10-09
+Wales,3,Neco Williams,DF,1.eng Nott'ham Forest,"Wrexham, Wales, United Kingdom",2001-04-13
+Wales,8,Harry Wilson,"MF,FW",1.eng Fulham,"Wrexham, Wales, United Kingdom",1997-03-22
